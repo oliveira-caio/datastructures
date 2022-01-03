@@ -1,0 +1,2782 @@
+Método: Bubble sort.
+Tamanho da lista: 1000.
+Tempo gasto para ordenar uma lista aleatória: 0.001921 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000118 s.
+Tempo gasto para ordenar uma lista crescente: 0.000965 s.
+Desvio padrão de ordenar uma lista crescente: 0.000049 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001985 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000135 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 1000.
+Tempo gasto para ordenar uma lista aleatória: 0.001698 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000013 s.
+Tempo gasto para ordenar uma lista crescente: 0.000002 s.
+Desvio padrão de ordenar uma lista crescente: 0.000000 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001927 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000018 s.
+
+Método: Quick sort.
+Tamanho da lista: 1000.
+Tempo gasto para ordenar uma lista aleatória: 0.000538 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000011 s.
+Tempo gasto para ordenar uma lista crescente: 0.000459 s.
+Desvio padrão de ordenar uma lista crescente: 0.000008 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000491 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000000 s.
+
+Método: Radix sort.
+Tamanho da lista: 1000.
+Tempo gasto para ordenar uma lista aleatória: 0.000052 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000009 s.
+Tempo gasto para ordenar uma lista crescente: 0.000081 s.
+Desvio padrão de ordenar uma lista crescente: 0.000004 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000192 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000011 s.
+
+Método: Heap sort.
+Tamanho da lista: 1000.
+Tempo gasto para ordenar uma lista aleatória: 0.000135 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000001 s.
+Tempo gasto para ordenar uma lista crescente: 0.000115 s.
+Desvio padrão de ordenar uma lista crescente: 0.000001 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000109 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000001 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 1500.
+Tempo gasto para ordenar uma lista aleatória: 0.004089 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000034 s.
+Tempo gasto para ordenar uma lista crescente: 0.002118 s.
+Desvio padrão de ordenar uma lista crescente: 0.000018 s.
+Tempo gasto para ordenar uma lista decrescente: 0.004327 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000020 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 1500.
+Tempo gasto para ordenar uma lista aleatória: 0.003743 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000028 s.
+Tempo gasto para ordenar uma lista crescente: 0.000003 s.
+Desvio padrão de ordenar uma lista crescente: 0.000000 s.
+Tempo gasto para ordenar uma lista decrescente: 0.004341 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000025 s.
+
+Método: Quick sort.
+Tamanho da lista: 1500.
+Tempo gasto para ordenar uma lista aleatória: 0.000811 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000012 s.
+Tempo gasto para ordenar uma lista crescente: 0.000698 s.
+Desvio padrão de ordenar uma lista crescente: 0.000033 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000723 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000008 s.
+
+Método: Radix sort.
+Tamanho da lista: 1500.
+Tempo gasto para ordenar uma lista aleatória: 0.000098 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000008 s.
+Tempo gasto para ordenar uma lista crescente: 0.000120 s.
+Desvio padrão de ordenar uma lista crescente: 0.000000 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000287 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000013 s.
+
+Método: Heap sort.
+Tamanho da lista: 1500.
+Tempo gasto para ordenar uma lista aleatória: 0.000217 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000008 s.
+Tempo gasto para ordenar uma lista crescente: 0.000184 s.
+Desvio padrão de ordenar uma lista crescente: 0.000008 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000174 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000001 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 2000.
+Tempo gasto para ordenar uma lista aleatória: 0.007222 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000036 s.
+Tempo gasto para ordenar uma lista crescente: 0.003751 s.
+Desvio padrão de ordenar uma lista crescente: 0.000022 s.
+Tempo gasto para ordenar uma lista decrescente: 0.007704 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000053 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 2000.
+Tempo gasto para ordenar uma lista aleatória: 0.006601 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000036 s.
+Tempo gasto para ordenar uma lista crescente: 0.000004 s.
+Desvio padrão de ordenar uma lista crescente: 0.000000 s.
+Tempo gasto para ordenar uma lista decrescente: 0.007690 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000037 s.
+
+Método: Quick sort.
+Tamanho da lista: 2000.
+Tempo gasto para ordenar uma lista aleatória: 0.001088 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000013 s.
+Tempo gasto para ordenar uma lista crescente: 0.000829 s.
+Desvio padrão de ordenar uma lista crescente: 0.000015 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000958 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000011 s.
+
+Método: Radix sort.
+Tamanho da lista: 2000.
+Tempo gasto para ordenar uma lista aleatória: 0.000129 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000001 s.
+Tempo gasto para ordenar uma lista crescente: 0.000162 s.
+Desvio padrão de ordenar uma lista crescente: 0.000008 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000386 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000030 s.
+
+Método: Heap sort.
+Tamanho da lista: 2000.
+Tempo gasto para ordenar uma lista aleatória: 0.000298 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000001 s.
+Tempo gasto para ordenar uma lista crescente: 0.000253 s.
+Desvio padrão de ordenar uma lista crescente: 0.000011 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000240 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000001 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 2500.
+Tempo gasto para ordenar uma lista aleatória: 0.011520 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000084 s.
+Tempo gasto para ordenar uma lista crescente: 0.005861 s.
+Desvio padrão de ordenar uma lista crescente: 0.000026 s.
+Tempo gasto para ordenar uma lista decrescente: 0.012026 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000047 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 2500.
+Tempo gasto para ordenar uma lista aleatória: 0.011424 s.
+Desvio padrão de ordenar uma lista aleatória: 0.002333 s.
+Tempo gasto para ordenar uma lista crescente: 0.000006 s.
+Desvio padrão de ordenar uma lista crescente: 0.000004 s.
+Tempo gasto para ordenar uma lista decrescente: 0.013624 s.
+Desvio padrão de ordenar uma lista decrescente: 0.003655 s.
+
+Método: Quick sort.
+Tamanho da lista: 2500.
+Tempo gasto para ordenar uma lista aleatória: 0.001331 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000014 s.
+Tempo gasto para ordenar uma lista crescente: 0.001063 s.
+Desvio padrão de ordenar uma lista crescente: 0.000011 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001201 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000001 s.
+
+Método: Radix sort.
+Tamanho da lista: 2500.
+Tempo gasto para ordenar uma lista aleatória: 0.000162 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000002 s.
+Tempo gasto para ordenar uma lista crescente: 0.000239 s.
+Desvio padrão de ordenar uma lista crescente: 0.000000 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000470 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000001 s.
+
+Método: Heap sort.
+Tamanho da lista: 2500.
+Tempo gasto para ordenar uma lista aleatória: 0.000384 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000009 s.
+Tempo gasto para ordenar uma lista crescente: 0.000322 s.
+Desvio padrão de ordenar uma lista crescente: 0.000008 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000311 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000011 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 3000.
+Tempo gasto para ordenar uma lista aleatória: 0.016556 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000065 s.
+Tempo gasto para ordenar uma lista crescente: 0.008415 s.
+Desvio padrão de ordenar uma lista crescente: 0.000033 s.
+Tempo gasto para ordenar uma lista decrescente: 0.017273 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000062 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 3000.
+Tempo gasto para ordenar uma lista aleatória: 0.015274 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000042 s.
+Tempo gasto para ordenar uma lista crescente: 0.000006 s.
+Desvio padrão de ordenar uma lista crescente: 0.000000 s.
+Tempo gasto para ordenar uma lista decrescente: 0.017263 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000022 s.
+
+Método: Quick sort.
+Tamanho da lista: 3000.
+Tempo gasto para ordenar uma lista aleatória: 0.001604 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000013 s.
+Tempo gasto para ordenar uma lista crescente: 0.001506 s.
+Desvio padrão de ordenar uma lista crescente: 0.000011 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001596 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000011 s.
+
+Método: Radix sort.
+Tamanho da lista: 3000.
+Tempo gasto para ordenar uma lista aleatória: 0.000192 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000001 s.
+Tempo gasto para ordenar uma lista crescente: 0.000288 s.
+Desvio padrão de ordenar uma lista crescente: 0.000001 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000567 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000011 s.
+
+Método: Heap sort.
+Tamanho da lista: 3000.
+Tempo gasto para ordenar uma lista aleatória: 0.000471 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000002 s.
+Tempo gasto para ordenar uma lista crescente: 0.000393 s.
+Desvio padrão de ordenar uma lista crescente: 0.000008 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000376 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000008 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 3500.
+Tempo gasto para ordenar uma lista aleatória: 0.023089 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000228 s.
+Tempo gasto para ordenar uma lista crescente: 0.011474 s.
+Desvio padrão de ordenar uma lista crescente: 0.000053 s.
+Tempo gasto para ordenar uma lista decrescente: 0.023552 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000082 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 3500.
+Tempo gasto para ordenar uma lista aleatória: 0.021287 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000148 s.
+Tempo gasto para ordenar uma lista crescente: 0.000007 s.
+Desvio padrão de ordenar uma lista crescente: 0.000000 s.
+Tempo gasto para ordenar uma lista decrescente: 0.023590 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000222 s.
+
+Método: Quick sort.
+Tamanho da lista: 3500.
+Tempo gasto para ordenar uma lista aleatória: 0.001897 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000013 s.
+Tempo gasto para ordenar uma lista crescente: 0.001953 s.
+Desvio padrão de ordenar uma lista crescente: 0.000013 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001827 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000011 s.
+
+Método: Radix sort.
+Tamanho da lista: 3500.
+Tempo gasto para ordenar uma lista aleatória: 0.000225 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000008 s.
+Tempo gasto para ordenar uma lista crescente: 0.000338 s.
+Desvio padrão de ordenar uma lista crescente: 0.000008 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000659 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000008 s.
+
+Método: Heap sort.
+Tamanho da lista: 3500.
+Tempo gasto para ordenar uma lista aleatória: 0.000561 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000002 s.
+Tempo gasto para ordenar uma lista crescente: 0.000464 s.
+Desvio padrão de ordenar uma lista crescente: 0.000008 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000447 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000002 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 4000.
+Tempo gasto para ordenar uma lista aleatória: 0.030617 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000146 s.
+Tempo gasto para ordenar uma lista crescente: 0.014964 s.
+Desvio padrão de ordenar uma lista crescente: 0.000060 s.
+Tempo gasto para ordenar uma lista decrescente: 0.030699 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000094 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 4000.
+Tempo gasto para ordenar uma lista aleatória: 0.028232 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000184 s.
+Tempo gasto para ordenar uma lista crescente: 0.000008 s.
+Desvio padrão de ordenar uma lista crescente: 0.000000 s.
+Tempo gasto para ordenar uma lista decrescente: 0.030707 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000104 s.
+
+Método: Quick sort.
+Tamanho da lista: 4000.
+Tempo gasto para ordenar uma lista aleatória: 0.002176 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000011 s.
+Tempo gasto para ordenar uma lista crescente: 0.001608 s.
+Desvio padrão de ordenar uma lista crescente: 0.000008 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001974 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000013 s.
+
+Método: Radix sort.
+Tamanho da lista: 4000.
+Tempo gasto para ordenar uma lista aleatória: 0.000254 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000002 s.
+Tempo gasto para ordenar uma lista crescente: 0.000383 s.
+Desvio padrão de ordenar uma lista crescente: 0.000009 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000749 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000014 s.
+
+Método: Heap sort.
+Tamanho da lista: 4000.
+Tempo gasto para ordenar uma lista aleatória: 0.000656 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000014 s.
+Tempo gasto para ordenar uma lista crescente: 0.000535 s.
+Desvio padrão de ordenar uma lista crescente: 0.000005 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000519 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000008 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 4500.
+Tempo gasto para ordenar uma lista aleatória: 0.039688 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000214 s.
+Tempo gasto para ordenar uma lista crescente: 0.018907 s.
+Desvio padrão de ordenar uma lista crescente: 0.000083 s.
+Tempo gasto para ordenar uma lista decrescente: 0.038830 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000101 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 4500.
+Tempo gasto para ordenar uma lista aleatória: 0.037765 s.
+Desvio padrão de ordenar uma lista aleatória: 0.002194 s.
+Tempo gasto para ordenar uma lista crescente: 0.000009 s.
+Desvio padrão de ordenar uma lista crescente: 0.000002 s.
+Tempo gasto para ordenar uma lista decrescente: 0.039707 s.
+Desvio padrão de ordenar uma lista decrescente: 0.001678 s.
+
+Método: Quick sort.
+Tamanho da lista: 4500.
+Tempo gasto para ordenar uma lista aleatória: 0.002516 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000160 s.
+Tempo gasto para ordenar uma lista crescente: 0.002216 s.
+Desvio padrão de ordenar uma lista crescente: 0.000127 s.
+Tempo gasto para ordenar uma lista decrescente: 0.002353 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000179 s.
+
+Método: Radix sort.
+Tamanho da lista: 4500.
+Tempo gasto para ordenar uma lista aleatória: 0.000295 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000023 s.
+Tempo gasto para ordenar uma lista crescente: 0.000432 s.
+Desvio padrão de ordenar uma lista crescente: 0.000003 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000865 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000067 s.
+
+Método: Heap sort.
+Tamanho da lista: 4500.
+Tempo gasto para ordenar uma lista aleatória: 0.000837 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000111 s.
+Tempo gasto para ordenar uma lista crescente: 0.000689 s.
+Desvio padrão de ordenar uma lista crescente: 0.000111 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000662 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000100 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 5000.
+Tempo gasto para ordenar uma lista aleatória: 0.051317 s.
+Desvio padrão de ordenar uma lista aleatória: 0.001933 s.
+Tempo gasto para ordenar uma lista crescente: 0.024172 s.
+Desvio padrão de ordenar uma lista crescente: 0.001138 s.
+Tempo gasto para ordenar uma lista decrescente: 0.049830 s.
+Desvio padrão de ordenar uma lista decrescente: 0.002390 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 5000.
+Tempo gasto para ordenar uma lista aleatória: 0.046795 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000301 s.
+Tempo gasto para ordenar uma lista crescente: 0.000010 s.
+Desvio padrão de ordenar uma lista crescente: 0.000000 s.
+Tempo gasto para ordenar uma lista decrescente: 0.048131 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000160 s.
+
+Método: Quick sort.
+Tamanho da lista: 5000.
+Tempo gasto para ordenar uma lista aleatória: 0.002731 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000026 s.
+Tempo gasto para ordenar uma lista crescente: 0.002594 s.
+Desvio padrão de ordenar uma lista crescente: 0.000026 s.
+Tempo gasto para ordenar uma lista decrescente: 0.002546 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000013 s.
+
+Método: Radix sort.
+Tamanho da lista: 5000.
+Tempo gasto para ordenar uma lista aleatória: 0.000337 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000038 s.
+Tempo gasto para ordenar uma lista crescente: 0.000494 s.
+Desvio padrão de ordenar uma lista crescente: 0.000016 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000963 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000008 s.
+
+Método: Heap sort.
+Tamanho da lista: 5000.
+Tempo gasto para ordenar uma lista aleatória: 0.000855 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000053 s.
+Tempo gasto para ordenar uma lista crescente: 0.000688 s.
+Desvio padrão de ordenar uma lista crescente: 0.000011 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000677 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000050 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 5500.
+Tempo gasto para ordenar uma lista aleatória: 0.061325 s.
+Desvio padrão de ordenar uma lista aleatória: 0.002195 s.
+Tempo gasto para ordenar uma lista crescente: 0.029046 s.
+Desvio padrão de ordenar uma lista crescente: 0.003654 s.
+Tempo gasto para ordenar uma lista decrescente: 0.059482 s.
+Desvio padrão de ordenar uma lista decrescente: 0.006389 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 5500.
+Tempo gasto para ordenar uma lista aleatória: 0.057841 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000426 s.
+Tempo gasto para ordenar uma lista crescente: 0.000011 s.
+Desvio padrão de ordenar uma lista crescente: 0.000000 s.
+Tempo gasto para ordenar uma lista decrescente: 0.058355 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000441 s.
+
+Método: Quick sort.
+Tamanho da lista: 5500.
+Tempo gasto para ordenar uma lista aleatória: 0.003018 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000017 s.
+Tempo gasto para ordenar uma lista crescente: 0.003020 s.
+Desvio padrão de ordenar uma lista crescente: 0.000025 s.
+Tempo gasto para ordenar uma lista decrescente: 0.002940 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000018 s.
+
+Método: Radix sort.
+Tamanho da lista: 5500.
+Tempo gasto para ordenar uma lista aleatória: 0.000359 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000001 s.
+Tempo gasto para ordenar uma lista crescente: 0.000535 s.
+Desvio padrão de ordenar uma lista crescente: 0.000001 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001059 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000008 s.
+
+Método: Heap sort.
+Tamanho da lista: 5500.
+Tempo gasto para ordenar uma lista aleatória: 0.000929 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000008 s.
+Tempo gasto para ordenar uma lista crescente: 0.000762 s.
+Desvio padrão de ordenar uma lista crescente: 0.000011 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000742 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000013 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 6000.
+Tempo gasto para ordenar uma lista aleatória: 0.073785 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000402 s.
+Tempo gasto para ordenar uma lista crescente: 0.033691 s.
+Desvio padrão de ordenar uma lista crescente: 0.000129 s.
+Tempo gasto para ordenar uma lista decrescente: 0.069371 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000177 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 6000.
+Tempo gasto para ordenar uma lista aleatória: 0.070559 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000317 s.
+Tempo gasto para ordenar uma lista crescente: 0.000011 s.
+Desvio padrão de ordenar uma lista crescente: 0.000000 s.
+Tempo gasto para ordenar uma lista decrescente: 0.069410 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000150 s.
+
+Método: Quick sort.
+Tamanho da lista: 6000.
+Tempo gasto para ordenar uma lista aleatória: 0.003265 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000025 s.
+Tempo gasto para ordenar uma lista crescente: 0.003206 s.
+Desvio padrão de ordenar uma lista crescente: 0.000038 s.
+Tempo gasto para ordenar uma lista decrescente: 0.003062 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000024 s.
+
+Método: Radix sort.
+Tamanho da lista: 6000.
+Tempo gasto para ordenar uma lista aleatória: 0.000393 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000015 s.
+Tempo gasto para ordenar uma lista crescente: 0.000580 s.
+Desvio padrão de ordenar uma lista crescente: 0.000009 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001149 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000016 s.
+
+Método: Heap sort.
+Tamanho da lista: 6000.
+Tempo gasto para ordenar uma lista aleatória: 0.001031 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000019 s.
+Tempo gasto para ordenar uma lista crescente: 0.000841 s.
+Desvio padrão de ordenar uma lista crescente: 0.000013 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000810 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000009 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 6500.
+Tempo gasto para ordenar uma lista aleatória: 0.088215 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000492 s.
+Tempo gasto para ordenar uma lista crescente: 0.039805 s.
+Desvio padrão de ordenar uma lista crescente: 0.001178 s.
+Tempo gasto para ordenar uma lista decrescente: 0.084260 s.
+Desvio padrão de ordenar uma lista decrescente: 0.011680 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 6500.
+Tempo gasto para ordenar uma lista aleatória: 0.084134 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000315 s.
+Tempo gasto para ordenar uma lista crescente: 0.000013 s.
+Desvio padrão de ordenar uma lista crescente: 0.000000 s.
+Tempo gasto para ordenar uma lista decrescente: 0.081720 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000183 s.
+
+Método: Quick sort.
+Tamanho da lista: 6500.
+Tempo gasto para ordenar uma lista aleatória: 0.003567 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000022 s.
+Tempo gasto para ordenar uma lista crescente: 0.003483 s.
+Desvio padrão de ordenar uma lista crescente: 0.000137 s.
+Tempo gasto para ordenar uma lista decrescente: 0.003431 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000074 s.
+
+Método: Radix sort.
+Tamanho da lista: 6500.
+Tempo gasto para ordenar uma lista aleatória: 0.000418 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000011 s.
+Tempo gasto para ordenar uma lista crescente: 0.000620 s.
+Desvio padrão de ordenar uma lista crescente: 0.000006 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001234 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000015 s.
+
+Método: Heap sort.
+Tamanho da lista: 6500.
+Tempo gasto para ordenar uma lista aleatória: 0.001135 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000018 s.
+Tempo gasto para ordenar uma lista crescente: 0.000911 s.
+Desvio padrão de ordenar uma lista crescente: 0.000008 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000881 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000002 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 7000.
+Tempo gasto para ordenar uma lista aleatória: 0.103266 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000714 s.
+Tempo gasto para ordenar uma lista crescente: 0.045783 s.
+Desvio padrão de ordenar uma lista crescente: 0.000081 s.
+Tempo gasto para ordenar uma lista decrescente: 0.095234 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000111 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 7000.
+Tempo gasto para ordenar uma lista aleatória: 0.099186 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000376 s.
+Tempo gasto para ordenar uma lista crescente: 0.000014 s.
+Desvio padrão de ordenar uma lista crescente: 0.000000 s.
+Tempo gasto para ordenar uma lista decrescente: 0.095215 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000120 s.
+
+Método: Quick sort.
+Tamanho da lista: 7000.
+Tempo gasto para ordenar uma lista aleatória: 0.003867 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000016 s.
+Tempo gasto para ordenar uma lista crescente: 0.003593 s.
+Desvio padrão de ordenar uma lista crescente: 0.000038 s.
+Tempo gasto para ordenar uma lista decrescente: 0.003702 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000022 s.
+
+Método: Radix sort.
+Tamanho da lista: 7000.
+Tempo gasto para ordenar uma lista aleatória: 0.000450 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000008 s.
+Tempo gasto para ordenar uma lista crescente: 0.000669 s.
+Desvio padrão de ordenar uma lista crescente: 0.000008 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001320 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000008 s.
+
+Método: Heap sort.
+Tamanho da lista: 7000.
+Tempo gasto para ordenar uma lista aleatória: 0.001221 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000016 s.
+Tempo gasto para ordenar uma lista crescente: 0.000987 s.
+Desvio padrão de ordenar uma lista crescente: 0.000008 s.
+Tempo gasto para ordenar uma lista decrescente: 0.000962 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000013 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 7500.
+Tempo gasto para ordenar uma lista aleatória: 0.119877 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000688 s.
+Tempo gasto para ordenar uma lista crescente: 0.053479 s.
+Desvio padrão de ordenar uma lista crescente: 0.004438 s.
+Tempo gasto para ordenar uma lista decrescente: 0.111603 s.
+Desvio padrão de ordenar uma lista decrescente: 0.008254 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 7500.
+Tempo gasto para ordenar uma lista aleatória: 0.116160 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000624 s.
+Tempo gasto para ordenar uma lista crescente: 0.000015 s.
+Desvio padrão de ordenar uma lista crescente: 0.000001 s.
+Tempo gasto para ordenar uma lista decrescente: 0.109996 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000352 s.
+
+Método: Quick sort.
+Tamanho da lista: 7500.
+Tempo gasto para ordenar uma lista aleatória: 0.004135 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000025 s.
+Tempo gasto para ordenar uma lista crescente: 0.003476 s.
+Desvio padrão de ordenar uma lista crescente: 0.000023 s.
+Tempo gasto para ordenar uma lista decrescente: 0.003838 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000028 s.
+
+Método: Radix sort.
+Tamanho da lista: 7500.
+Tempo gasto para ordenar uma lista aleatória: 0.000477 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000003 s.
+Tempo gasto para ordenar uma lista crescente: 0.000725 s.
+Desvio padrão de ordenar uma lista crescente: 0.000015 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001422 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000019 s.
+
+Método: Heap sort.
+Tamanho da lista: 7500.
+Tempo gasto para ordenar uma lista aleatória: 0.001322 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000015 s.
+Tempo gasto para ordenar uma lista crescente: 0.001067 s.
+Desvio padrão de ordenar uma lista crescente: 0.000015 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001035 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000008 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 8000.
+Tempo gasto para ordenar uma lista aleatória: 0.138297 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000470 s.
+Tempo gasto para ordenar uma lista crescente: 0.059920 s.
+Desvio padrão de ordenar uma lista crescente: 0.000288 s.
+Tempo gasto para ordenar uma lista decrescente: 0.125775 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000446 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 8000.
+Tempo gasto para ordenar uma lista aleatória: 0.134299 s.
+Desvio padrão de ordenar uma lista aleatória: 0.003336 s.
+Tempo gasto para ordenar uma lista crescente: 0.000016 s.
+Desvio padrão de ordenar uma lista crescente: 0.000003 s.
+Tempo gasto para ordenar uma lista decrescente: 0.127404 s.
+Desvio padrão de ordenar uma lista decrescente: 0.009075 s.
+
+Método: Quick sort.
+Tamanho da lista: 8000.
+Tempo gasto para ordenar uma lista aleatória: 0.004403 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000031 s.
+Tempo gasto para ordenar uma lista crescente: 0.004266 s.
+Desvio padrão de ordenar uma lista crescente: 0.000022 s.
+Tempo gasto para ordenar uma lista decrescente: 0.004252 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000020 s.
+
+Método: Radix sort.
+Tamanho da lista: 8000.
+Tempo gasto para ordenar uma lista aleatória: 0.000518 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000016 s.
+Tempo gasto para ordenar uma lista crescente: 0.000791 s.
+Desvio padrão de ordenar uma lista crescente: 0.000026 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001532 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000024 s.
+
+Método: Heap sort.
+Tamanho da lista: 8000.
+Tempo gasto para ordenar uma lista aleatória: 0.001423 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000020 s.
+Tempo gasto para ordenar uma lista crescente: 0.001141 s.
+Desvio padrão de ordenar uma lista crescente: 0.000013 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001115 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000016 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 8500.
+Tempo gasto para ordenar uma lista aleatória: 0.157986 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000551 s.
+Tempo gasto para ordenar uma lista crescente: 0.067611 s.
+Desvio padrão de ordenar uma lista crescente: 0.000101 s.
+Tempo gasto para ordenar uma lista decrescente: 0.142115 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000173 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 8500.
+Tempo gasto para ordenar uma lista aleatória: 0.154675 s.
+Desvio padrão de ordenar uma lista aleatória: 0.008803 s.
+Tempo gasto para ordenar uma lista crescente: 0.000016 s.
+Desvio padrão de ordenar uma lista crescente: 0.000000 s.
+Tempo gasto para ordenar uma lista decrescente: 0.142636 s.
+Desvio padrão de ordenar uma lista decrescente: 0.002974 s.
+
+Método: Quick sort.
+Tamanho da lista: 8500.
+Tempo gasto para ordenar uma lista aleatória: 0.004684 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000035 s.
+Tempo gasto para ordenar uma lista crescente: 0.004304 s.
+Desvio padrão de ordenar uma lista crescente: 0.000089 s.
+Tempo gasto para ordenar uma lista decrescente: 0.004281 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000068 s.
+
+Método: Radix sort.
+Tamanho da lista: 8500.
+Tempo gasto para ordenar uma lista aleatória: 0.000553 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000016 s.
+Tempo gasto para ordenar uma lista crescente: 0.000822 s.
+Desvio padrão de ordenar uma lista crescente: 0.000015 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001617 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000023 s.
+
+Método: Heap sort.
+Tamanho da lista: 8500.
+Tempo gasto para ordenar uma lista aleatória: 0.001520 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000024 s.
+Tempo gasto para ordenar uma lista crescente: 0.001221 s.
+Desvio padrão de ordenar uma lista crescente: 0.000019 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001194 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000020 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 9000.
+Tempo gasto para ordenar uma lista aleatória: 0.178443 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000876 s.
+Tempo gasto para ordenar uma lista crescente: 0.075795 s.
+Desvio padrão de ordenar uma lista crescente: 0.000103 s.
+Tempo gasto para ordenar uma lista decrescente: 0.157479 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000168 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 9000.
+Tempo gasto para ordenar uma lista aleatória: 0.174026 s.
+Desvio padrão de ordenar uma lista aleatória: 0.002915 s.
+Tempo gasto para ordenar uma lista crescente: 0.000017 s.
+Desvio padrão de ordenar uma lista crescente: 0.000000 s.
+Tempo gasto para ordenar uma lista decrescente: 0.159587 s.
+Desvio padrão de ordenar uma lista decrescente: 0.010332 s.
+
+Método: Quick sort.
+Tamanho da lista: 9000.
+Tempo gasto para ordenar uma lista aleatória: 0.004954 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000029 s.
+Tempo gasto para ordenar uma lista crescente: 0.004890 s.
+Desvio padrão de ordenar uma lista crescente: 0.000029 s.
+Tempo gasto para ordenar uma lista decrescente: 0.004640 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000073 s.
+
+Método: Radix sort.
+Tamanho da lista: 9000.
+Tempo gasto para ordenar uma lista aleatória: 0.000584 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000012 s.
+Tempo gasto para ordenar uma lista crescente: 0.000871 s.
+Desvio padrão de ordenar uma lista crescente: 0.000019 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001720 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000020 s.
+
+Método: Heap sort.
+Tamanho da lista: 9000.
+Tempo gasto para ordenar uma lista aleatória: 0.001623 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000020 s.
+Tempo gasto para ordenar uma lista crescente: 0.001306 s.
+Desvio padrão de ordenar uma lista crescente: 0.000019 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001272 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000019 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 9500.
+Tempo gasto para ordenar uma lista aleatória: 0.200430 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000922 s.
+Tempo gasto para ordenar uma lista crescente: 0.084563 s.
+Desvio padrão de ordenar uma lista crescente: 0.000322 s.
+Tempo gasto para ordenar uma lista decrescente: 0.175522 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000238 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 9500.
+Tempo gasto para ordenar uma lista aleatória: 0.196948 s.
+Desvio padrão de ordenar uma lista aleatória: 0.008112 s.
+Tempo gasto para ordenar uma lista crescente: 0.000019 s.
+Desvio padrão de ordenar uma lista crescente: 0.000004 s.
+Tempo gasto para ordenar uma lista decrescente: 0.176285 s.
+Desvio padrão de ordenar uma lista decrescente: 0.003857 s.
+
+Método: Quick sort.
+Tamanho da lista: 9500.
+Tempo gasto para ordenar uma lista aleatória: 0.005258 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000037 s.
+Tempo gasto para ordenar uma lista crescente: 0.004880 s.
+Desvio padrão de ordenar uma lista crescente: 0.000029 s.
+Tempo gasto para ordenar uma lista decrescente: 0.004825 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000024 s.
+
+Método: Radix sort.
+Tamanho da lista: 9500.
+Tempo gasto para ordenar uma lista aleatória: 0.000634 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000032 s.
+Tempo gasto para ordenar uma lista crescente: 0.000942 s.
+Desvio padrão de ordenar uma lista crescente: 0.000023 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001831 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000019 s.
+
+Método: Heap sort.
+Tamanho da lista: 9500.
+Tempo gasto para ordenar uma lista aleatória: 0.001736 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000033 s.
+Tempo gasto para ordenar uma lista crescente: 0.001375 s.
+Desvio padrão de ordenar uma lista crescente: 0.000011 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001352 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000020 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 10000.
+Tempo gasto para ordenar uma lista aleatória: 0.222955 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000635 s.
+Tempo gasto para ordenar uma lista crescente: 0.093591 s.
+Desvio padrão de ordenar uma lista crescente: 0.000145 s.
+Tempo gasto para ordenar uma lista decrescente: 0.192115 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000172 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 10000.
+Tempo gasto para ordenar uma lista aleatória: 0.219626 s.
+Desvio padrão de ordenar uma lista aleatória: 0.005706 s.
+Tempo gasto para ordenar uma lista crescente: 0.000020 s.
+Desvio padrão de ordenar uma lista crescente: 0.000003 s.
+Tempo gasto para ordenar uma lista decrescente: 0.193576 s.
+Desvio padrão de ordenar uma lista decrescente: 0.005995 s.
+
+Método: Quick sort.
+Tamanho da lista: 10000.
+Tempo gasto para ordenar uma lista aleatória: 0.005516 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000032 s.
+Tempo gasto para ordenar uma lista crescente: 0.004096 s.
+Desvio padrão de ordenar uma lista crescente: 0.000022 s.
+Tempo gasto para ordenar uma lista decrescente: 0.004939 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000026 s.
+
+Método: Radix sort.
+Tamanho da lista: 10000.
+Tempo gasto para ordenar uma lista aleatória: 0.000660 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000015 s.
+Tempo gasto para ordenar uma lista crescente: 0.000982 s.
+Desvio padrão de ordenar uma lista crescente: 0.000023 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001930 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000030 s.
+
+Método: Heap sort.
+Tamanho da lista: 10000.
+Tempo gasto para ordenar uma lista aleatória: 0.001822 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000029 s.
+Tempo gasto para ordenar uma lista crescente: 0.001462 s.
+Desvio padrão de ordenar uma lista crescente: 0.000017 s.
+Tempo gasto para ordenar uma lista decrescente: 0.001424 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000016 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 15000.
+Tempo gasto para ordenar uma lista aleatória: 0.530469 s.
+Desvio padrão de ordenar uma lista aleatória: 0.001516 s.
+Tempo gasto para ordenar uma lista crescente: 0.211484 s.
+Desvio padrão de ordenar uma lista crescente: 0.000479 s.
+Tempo gasto para ordenar uma lista decrescente: 0.439550 s.
+Desvio padrão de ordenar uma lista decrescente: 0.012865 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 15000.
+Tempo gasto para ordenar uma lista aleatória: 0.524691 s.
+Desvio padrão de ordenar uma lista aleatória: 0.009144 s.
+Tempo gasto para ordenar uma lista crescente: 0.000029 s.
+Desvio padrão de ordenar uma lista crescente: 0.000004 s.
+Tempo gasto para ordenar uma lista decrescente: 0.435508 s.
+Desvio padrão de ordenar uma lista decrescente: 0.001169 s.
+
+Método: Quick sort.
+Tamanho da lista: 15000.
+Tempo gasto para ordenar uma lista aleatória: 0.009090 s.
+Desvio padrão de ordenar uma lista aleatória: 0.001611 s.
+Tempo gasto para ordenar uma lista crescente: 0.008709 s.
+Desvio padrão de ordenar uma lista crescente: 0.001627 s.
+Tempo gasto para ordenar uma lista decrescente: 0.008504 s.
+Desvio padrão de ordenar uma lista decrescente: 0.001558 s.
+
+Método: Radix sort.
+Tamanho da lista: 15000.
+Tempo gasto para ordenar uma lista aleatória: 0.001248 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000027 s.
+Tempo gasto para ordenar uma lista crescente: 0.001467 s.
+Desvio padrão de ordenar uma lista crescente: 0.000031 s.
+Tempo gasto para ordenar uma lista decrescente: 0.002879 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000033 s.
+
+Método: Heap sort.
+Tamanho da lista: 15000.
+Tempo gasto para ordenar uma lista aleatória: 0.002871 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000028 s.
+Tempo gasto para ordenar uma lista crescente: 0.002257 s.
+Desvio padrão de ordenar uma lista crescente: 0.000015 s.
+Tempo gasto para ordenar uma lista decrescente: 0.002224 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000024 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 20000.
+Tempo gasto para ordenar uma lista aleatória: 0.973760 s.
+Desvio padrão de ordenar uma lista aleatória: 0.012807 s.
+Tempo gasto para ordenar uma lista crescente: 0.375872 s.
+Desvio padrão de ordenar uma lista crescente: 0.000832 s.
+Tempo gasto para ordenar uma lista decrescente: 0.774429 s.
+Desvio padrão de ordenar uma lista decrescente: 0.004364 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 20000.
+Tempo gasto para ordenar uma lista aleatória: 0.959900 s.
+Desvio padrão de ordenar uma lista aleatória: 0.008421 s.
+Tempo gasto para ordenar uma lista crescente: 0.000040 s.
+Desvio padrão de ordenar uma lista crescente: 0.000005 s.
+Tempo gasto para ordenar uma lista decrescente: 0.777666 s.
+Desvio padrão de ordenar uma lista decrescente: 0.013060 s.
+
+Método: Quick sort.
+Tamanho da lista: 20000.
+Tempo gasto para ordenar uma lista aleatória: 0.011146 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000048 s.
+Tempo gasto para ordenar uma lista crescente: 0.009723 s.
+Desvio padrão de ordenar uma lista crescente: 0.000039 s.
+Tempo gasto para ordenar uma lista decrescente: 0.009673 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000036 s.
+
+Método: Radix sort.
+Tamanho da lista: 20000.
+Tempo gasto para ordenar uma lista aleatória: 0.001634 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000026 s.
+Tempo gasto para ordenar uma lista crescente: 0.001933 s.
+Desvio padrão de ordenar uma lista crescente: 0.000023 s.
+Tempo gasto para ordenar uma lista decrescente: 0.003810 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000024 s.
+
+Método: Heap sort.
+Tamanho da lista: 20000.
+Tempo gasto para ordenar uma lista aleatória: 0.003931 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000025 s.
+Tempo gasto para ordenar uma lista crescente: 0.003078 s.
+Desvio padrão de ordenar uma lista crescente: 0.000021 s.
+Tempo gasto para ordenar uma lista decrescente: 0.003012 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000018 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 25000.
+Tempo gasto para ordenar uma lista aleatória: 1.550672 s.
+Desvio padrão de ordenar uma lista aleatória: 0.018834 s.
+Tempo gasto para ordenar uma lista crescente: 0.587414 s.
+Desvio padrão de ordenar uma lista crescente: 0.000872 s.
+Tempo gasto para ordenar uma lista decrescente: 1.211410 s.
+Desvio padrão de ordenar uma lista decrescente: 0.004231 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 25000.
+Tempo gasto para ordenar uma lista aleatória: 1.528232 s.
+Desvio padrão de ordenar uma lista aleatória: 0.010891 s.
+Tempo gasto para ordenar uma lista crescente: 0.000049 s.
+Desvio padrão de ordenar uma lista crescente: 0.000003 s.
+Tempo gasto para ordenar uma lista decrescente: 1.220714 s.
+Desvio padrão de ordenar uma lista decrescente: 0.018174 s.
+
+Método: Quick sort.
+Tamanho da lista: 25000.
+Tempo gasto para ordenar uma lista aleatória: 0.014064 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000064 s.
+Tempo gasto para ordenar uma lista crescente: 0.013569 s.
+Desvio padrão de ordenar uma lista crescente: 0.000237 s.
+Tempo gasto para ordenar uma lista decrescente: 0.013250 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000351 s.
+
+Método: Radix sort.
+Tamanho da lista: 25000.
+Tempo gasto para ordenar uma lista aleatória: 0.002075 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000036 s.
+Tempo gasto para ordenar uma lista crescente: 0.002825 s.
+Desvio padrão de ordenar uma lista crescente: 0.000028 s.
+Tempo gasto para ordenar uma lista decrescente: 0.004755 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000040 s.
+
+Método: Heap sort.
+Tamanho da lista: 25000.
+Tempo gasto para ordenar uma lista aleatória: 0.005048 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000035 s.
+Tempo gasto para ordenar uma lista crescente: 0.003917 s.
+Desvio padrão de ordenar uma lista crescente: 0.000026 s.
+Tempo gasto para ordenar uma lista decrescente: 0.003861 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000052 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 30000.
+Tempo gasto para ordenar uma lista aleatória: 2.251436 s.
+Desvio padrão de ordenar uma lista aleatória: 0.017522 s.
+Tempo gasto para ordenar uma lista crescente: 0.848684 s.
+Desvio padrão de ordenar uma lista crescente: 0.011763 s.
+Tempo gasto para ordenar uma lista decrescente: 1.754877 s.
+Desvio padrão de ordenar uma lista decrescente: 0.023192 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 30000.
+Tempo gasto para ordenar uma lista aleatória: 2.236777 s.
+Desvio padrão de ordenar uma lista aleatória: 0.018361 s.
+Tempo gasto para ordenar uma lista crescente: 0.000059 s.
+Desvio padrão de ordenar uma lista crescente: 0.000004 s.
+Tempo gasto para ordenar uma lista decrescente: 1.747867 s.
+Desvio padrão de ordenar uma lista decrescente: 0.002723 s.
+
+Método: Quick sort.
+Tamanho da lista: 30000.
+Tempo gasto para ordenar uma lista aleatória: 0.016877 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000064 s.
+Tempo gasto para ordenar uma lista crescente: 0.017645 s.
+Desvio padrão de ordenar uma lista crescente: 0.000609 s.
+Tempo gasto para ordenar uma lista decrescente: 0.015636 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000133 s.
+
+Método: Radix sort.
+Tamanho da lista: 30000.
+Tempo gasto para ordenar uma lista aleatória: 0.002426 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000016 s.
+Tempo gasto para ordenar uma lista crescente: 0.003371 s.
+Desvio padrão de ordenar uma lista crescente: 0.000029 s.
+Tempo gasto para ordenar uma lista decrescente: 0.005715 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000043 s.
+
+Método: Heap sort.
+Tamanho da lista: 30000.
+Tempo gasto para ordenar uma lista aleatória: 0.006168 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000035 s.
+Tempo gasto para ordenar uma lista crescente: 0.004755 s.
+Desvio padrão de ordenar uma lista crescente: 0.000033 s.
+Tempo gasto para ordenar uma lista decrescente: 0.004664 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000032 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 35000.
+Tempo gasto para ordenar uma lista aleatória: 3.089019 s.
+Desvio padrão de ordenar uma lista aleatória: 0.006509 s.
+Tempo gasto para ordenar uma lista crescente: 1.168721 s.
+Desvio padrão de ordenar uma lista crescente: 0.025637 s.
+Tempo gasto para ordenar uma lista decrescente: 2.381070 s.
+Desvio padrão de ordenar uma lista decrescente: 0.015438 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 35000.
+Tempo gasto para ordenar uma lista aleatória: 3.060190 s.
+Desvio padrão de ordenar uma lista aleatória: 0.016287 s.
+Tempo gasto para ordenar uma lista crescente: 0.000070 s.
+Desvio padrão de ordenar uma lista crescente: 0.000006 s.
+Tempo gasto para ordenar uma lista decrescente: 2.383486 s.
+Desvio padrão de ordenar uma lista decrescente: 0.026176 s.
+
+Método: Quick sort.
+Tamanho da lista: 35000.
+Tempo gasto para ordenar uma lista aleatória: 0.019752 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000091 s.
+Tempo gasto para ordenar uma lista crescente: 0.019873 s.
+Desvio padrão de ordenar uma lista crescente: 0.002152 s.
+Tempo gasto para ordenar uma lista decrescente: 0.017575 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000108 s.
+
+Método: Radix sort.
+Tamanho da lista: 35000.
+Tempo gasto para ordenar uma lista aleatória: 0.003202 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000586 s.
+Tempo gasto para ordenar uma lista crescente: 0.004460 s.
+Desvio padrão de ordenar uma lista crescente: 0.000819 s.
+Tempo gasto para ordenar uma lista decrescente: 0.007427 s.
+Desvio padrão de ordenar uma lista decrescente: 0.001340 s.
+
+Método: Heap sort.
+Tamanho da lista: 35000.
+Tempo gasto para ordenar uma lista aleatória: 0.007313 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000031 s.
+Tempo gasto para ordenar uma lista crescente: 0.005616 s.
+Desvio padrão de ordenar uma lista crescente: 0.000025 s.
+Tempo gasto para ordenar uma lista decrescente: 0.005501 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000040 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 40000.
+Tempo gasto para ordenar uma lista aleatória: 4.075184 s.
+Desvio padrão de ordenar uma lista aleatória: 0.018998 s.
+Tempo gasto para ordenar uma lista crescente: 1.509535 s.
+Desvio padrão de ordenar uma lista crescente: 0.016687 s.
+Tempo gasto para ordenar uma lista decrescente: 3.115998 s.
+Desvio padrão de ordenar uma lista decrescente: 0.027290 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 40000.
+Tempo gasto para ordenar uma lista aleatória: 4.031713 s.
+Desvio padrão de ordenar uma lista aleatória: 0.023406 s.
+Tempo gasto para ordenar uma lista crescente: 0.000081 s.
+Desvio padrão de ordenar uma lista crescente: 0.000011 s.
+Tempo gasto para ordenar uma lista decrescente: 3.118055 s.
+Desvio padrão de ordenar uma lista decrescente: 0.027162 s.
+
+Método: Quick sort.
+Tamanho da lista: 40000.
+Tempo gasto para ordenar uma lista aleatória: 0.022632 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000091 s.
+Tempo gasto para ordenar uma lista crescente: 0.019879 s.
+Desvio padrão de ordenar uma lista crescente: 0.001480 s.
+Tempo gasto para ordenar uma lista decrescente: 0.020626 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000318 s.
+
+Método: Radix sort.
+Tamanho da lista: 40000.
+Tempo gasto para ordenar uma lista aleatória: 0.003243 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000022 s.
+Tempo gasto para ordenar uma lista crescente: 0.004491 s.
+Desvio padrão de ordenar uma lista crescente: 0.000030 s.
+Tempo gasto para ordenar uma lista decrescente: 0.007609 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000047 s.
+
+Método: Heap sort.
+Tamanho da lista: 40000.
+Tempo gasto para ordenar uma lista aleatória: 0.009023 s.
+Desvio padrão de ordenar uma lista aleatória: 0.001331 s.
+Tempo gasto para ordenar uma lista crescente: 0.007049 s.
+Desvio padrão de ordenar uma lista crescente: 0.001309 s.
+Tempo gasto para ordenar uma lista decrescente: 0.006862 s.
+Desvio padrão de ordenar uma lista decrescente: 0.001158 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 45000.
+Tempo gasto para ordenar uma lista aleatória: 5.184991 s.
+Desvio padrão de ordenar uma lista aleatória: 0.021904 s.
+Tempo gasto para ordenar uma lista crescente: 1.911440 s.
+Desvio padrão de ordenar uma lista crescente: 0.019721 s.
+Tempo gasto para ordenar uma lista decrescente: 3.943918 s.
+Desvio padrão de ordenar uma lista decrescente: 0.028502 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 45000.
+Tempo gasto para ordenar uma lista aleatória: 5.137627 s.
+Desvio padrão de ordenar uma lista aleatória: 0.027095 s.
+Tempo gasto para ordenar uma lista crescente: 0.000092 s.
+Desvio padrão de ordenar uma lista crescente: 0.000008 s.
+Tempo gasto para ordenar uma lista decrescente: 3.942641 s.
+Desvio padrão de ordenar uma lista decrescente: 0.030504 s.
+
+Método: Quick sort.
+Tamanho da lista: 45000.
+Tempo gasto para ordenar uma lista aleatória: 0.025530 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000093 s.
+Tempo gasto para ordenar uma lista crescente: 0.022838 s.
+Desvio padrão de ordenar uma lista crescente: 0.001416 s.
+Tempo gasto para ordenar uma lista decrescente: 0.023686 s.
+Desvio padrão de ordenar uma lista decrescente: 0.001351 s.
+
+Método: Radix sort.
+Tamanho da lista: 45000.
+Tempo gasto para ordenar uma lista aleatória: 0.003650 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000028 s.
+Tempo gasto para ordenar uma lista crescente: 0.005059 s.
+Desvio padrão de ordenar uma lista crescente: 0.000025 s.
+Tempo gasto para ordenar uma lista decrescente: 0.008574 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000044 s.
+
+Método: Heap sort.
+Tamanho da lista: 45000.
+Tempo gasto para ordenar uma lista aleatória: 0.009656 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000042 s.
+Tempo gasto para ordenar uma lista crescente: 0.007372 s.
+Desvio padrão de ordenar uma lista crescente: 0.000032 s.
+Tempo gasto para ordenar uma lista decrescente: 0.007231 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000041 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 50000.
+Tempo gasto para ordenar uma lista aleatória: 6.441123 s.
+Desvio padrão de ordenar uma lista aleatória: 0.029937 s.
+Tempo gasto para ordenar uma lista crescente: 2.355523 s.
+Desvio padrão de ordenar uma lista crescente: 0.016591 s.
+Tempo gasto para ordenar uma lista decrescente: 4.870681 s.
+Desvio padrão de ordenar uma lista decrescente: 0.027525 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 50000.
+Tempo gasto para ordenar uma lista aleatória: 6.386916 s.
+Desvio padrão de ordenar uma lista aleatória: 0.027246 s.
+Tempo gasto para ordenar uma lista crescente: 0.000100 s.
+Desvio padrão de ordenar uma lista crescente: 0.000006 s.
+Tempo gasto para ordenar uma lista decrescente: 4.874539 s.
+Desvio padrão de ordenar uma lista decrescente: 0.025289 s.
+
+Método: Quick sort.
+Tamanho da lista: 50000.
+Tempo gasto para ordenar uma lista aleatória: 0.028429 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000099 s.
+Tempo gasto para ordenar uma lista crescente: 0.023554 s.
+Desvio padrão de ordenar uma lista crescente: 0.002013 s.
+Tempo gasto para ordenar uma lista decrescente: 0.025812 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000239 s.
+
+Método: Radix sort.
+Tamanho da lista: 50000.
+Tempo gasto para ordenar uma lista aleatória: 0.004063 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000030 s.
+Tempo gasto para ordenar uma lista crescente: 0.005646 s.
+Desvio padrão de ordenar uma lista crescente: 0.000030 s.
+Tempo gasto para ordenar uma lista decrescente: 0.009586 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000067 s.
+
+Método: Heap sort.
+Tamanho da lista: 50000.
+Tempo gasto para ordenar uma lista aleatória: 0.010856 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000044 s.
+Tempo gasto para ordenar uma lista crescente: 0.008271 s.
+Desvio padrão de ordenar uma lista crescente: 0.000046 s.
+Tempo gasto para ordenar uma lista decrescente: 0.008070 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000041 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 55000.
+Tempo gasto para ordenar uma lista aleatória: 7.834087 s.
+Desvio padrão de ordenar uma lista aleatória: 0.032187 s.
+Tempo gasto para ordenar uma lista crescente: 2.854421 s.
+Desvio padrão de ordenar uma lista crescente: 0.023305 s.
+Tempo gasto para ordenar uma lista decrescente: 5.900706 s.
+Desvio padrão de ordenar uma lista decrescente: 0.031373 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 55000.
+Tempo gasto para ordenar uma lista aleatória: 7.762470 s.
+Desvio padrão de ordenar uma lista aleatória: 0.023839 s.
+Tempo gasto para ordenar uma lista crescente: 0.000114 s.
+Desvio padrão de ordenar uma lista crescente: 0.000012 s.
+Tempo gasto para ordenar uma lista decrescente: 5.909374 s.
+Desvio padrão de ordenar uma lista decrescente: 0.032745 s.
+
+Método: Quick sort.
+Tamanho da lista: 55000.
+Tempo gasto para ordenar uma lista aleatória: 0.031206 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000089 s.
+Tempo gasto para ordenar uma lista crescente: 0.026449 s.
+Desvio padrão de ordenar uma lista crescente: 0.001366 s.
+Tempo gasto para ordenar uma lista decrescente: 0.028300 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000318 s.
+
+Método: Radix sort.
+Tamanho da lista: 55000.
+Tempo gasto para ordenar uma lista aleatória: 0.004491 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000032 s.
+Tempo gasto para ordenar uma lista crescente: 0.006211 s.
+Desvio padrão de ordenar uma lista crescente: 0.000035 s.
+Tempo gasto para ordenar uma lista decrescente: 0.010536 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000047 s.
+
+Método: Heap sort.
+Tamanho da lista: 55000.
+Tempo gasto para ordenar uma lista aleatória: 0.012042 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000065 s.
+Tempo gasto para ordenar uma lista crescente: 0.009151 s.
+Desvio padrão de ordenar uma lista crescente: 0.000045 s.
+Tempo gasto para ordenar uma lista decrescente: 0.008950 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000053 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 60000.
+Tempo gasto para ordenar uma lista aleatória: 9.352240 s.
+Desvio padrão de ordenar uma lista aleatória: 0.027301 s.
+Tempo gasto para ordenar uma lista crescente: 3.411436 s.
+Desvio padrão de ordenar uma lista crescente: 0.031085 s.
+Tempo gasto para ordenar uma lista decrescente: 7.000711 s.
+Desvio padrão de ordenar uma lista decrescente: 0.020371 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 60000.
+Tempo gasto para ordenar uma lista aleatória: 9.270645 s.
+Desvio padrão de ordenar uma lista aleatória: 0.032863 s.
+Tempo gasto para ordenar uma lista crescente: 0.000129 s.
+Desvio padrão de ordenar uma lista crescente: 0.000021 s.
+Tempo gasto para ordenar uma lista decrescente: 7.019580 s.
+Desvio padrão de ordenar uma lista decrescente: 0.038729 s.
+
+Método: Quick sort.
+Tamanho da lista: 60000.
+Tempo gasto para ordenar uma lista aleatória: 0.034253 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000147 s.
+Tempo gasto para ordenar uma lista crescente: 0.034334 s.
+Desvio padrão de ordenar uma lista crescente: 0.001582 s.
+Tempo gasto para ordenar uma lista decrescente: 0.031950 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000438 s.
+
+Método: Radix sort.
+Tamanho da lista: 60000.
+Tempo gasto para ordenar uma lista aleatória: 0.004903 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000036 s.
+Tempo gasto para ordenar uma lista crescente: 0.006766 s.
+Desvio padrão de ordenar uma lista crescente: 0.000038 s.
+Tempo gasto para ordenar uma lista decrescente: 0.011461 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000065 s.
+
+Método: Heap sort.
+Tamanho da lista: 60000.
+Tempo gasto para ordenar uma lista aleatória: 0.013498 s.
+Desvio padrão de ordenar uma lista aleatória: 0.001129 s.
+Tempo gasto para ordenar uma lista crescente: 0.010251 s.
+Desvio padrão de ordenar uma lista crescente: 0.001023 s.
+Tempo gasto para ordenar uma lista decrescente: 0.010116 s.
+Desvio padrão de ordenar uma lista decrescente: 0.001061 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 65000.
+Tempo gasto para ordenar uma lista aleatória: 11.008573 s.
+Desvio padrão de ordenar uma lista aleatória: 0.030880 s.
+Tempo gasto para ordenar uma lista crescente: 3.984773 s.
+Desvio padrão de ordenar uma lista crescente: 0.026204 s.
+Tempo gasto para ordenar uma lista decrescente: 8.223259 s.
+Desvio padrão de ordenar uma lista decrescente: 0.036615 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 65000.
+Tempo gasto para ordenar uma lista aleatória: 10.915234 s.
+Desvio padrão de ordenar uma lista aleatória: 0.037491 s.
+Tempo gasto para ordenar uma lista crescente: 0.000134 s.
+Desvio padrão de ordenar uma lista crescente: 0.000019 s.
+Tempo gasto para ordenar uma lista decrescente: 8.235717 s.
+Desvio padrão de ordenar uma lista decrescente: 0.030209 s.
+
+Método: Quick sort.
+Tamanho da lista: 65000.
+Tempo gasto para ordenar uma lista aleatória: 0.037854 s.
+Desvio padrão de ordenar uma lista aleatória: 0.003737 s.
+Tempo gasto para ordenar uma lista crescente: 0.033383 s.
+Desvio padrão de ordenar uma lista crescente: 0.003305 s.
+Tempo gasto para ordenar uma lista decrescente: 0.035457 s.
+Desvio padrão de ordenar uma lista decrescente: 0.003067 s.
+
+Método: Radix sort.
+Tamanho da lista: 65000.
+Tempo gasto para ordenar uma lista aleatória: 0.005280 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000035 s.
+Tempo gasto para ordenar uma lista crescente: 0.007327 s.
+Desvio padrão de ordenar uma lista crescente: 0.000038 s.
+Tempo gasto para ordenar uma lista decrescente: 0.012409 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000084 s.
+
+Método: Heap sort.
+Tamanho da lista: 65000.
+Tempo gasto para ordenar uma lista aleatória: 0.014531 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000179 s.
+Tempo gasto para ordenar uma lista crescente: 0.010911 s.
+Desvio padrão de ordenar uma lista crescente: 0.000049 s.
+Tempo gasto para ordenar uma lista decrescente: 0.010697 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000073 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 70000.
+Tempo gasto para ordenar uma lista aleatória: 12.792421 s.
+Desvio padrão de ordenar uma lista aleatória: 0.030878 s.
+Tempo gasto para ordenar uma lista crescente: 4.628075 s.
+Desvio padrão de ordenar uma lista crescente: 0.027685 s.
+Tempo gasto para ordenar uma lista decrescente: 9.541049 s.
+Desvio padrão de ordenar uma lista decrescente: 0.034651 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 70000.
+Tempo gasto para ordenar uma lista aleatória: 12.694811 s.
+Desvio padrão de ordenar uma lista aleatória: 0.028095 s.
+Tempo gasto para ordenar uma lista crescente: 0.000146 s.
+Desvio padrão de ordenar uma lista crescente: 0.000012 s.
+Tempo gasto para ordenar uma lista decrescente: 9.562754 s.
+Desvio padrão de ordenar uma lista decrescente: 0.035709 s.
+
+Método: Quick sort.
+Tamanho da lista: 70000.
+Tempo gasto para ordenar uma lista aleatória: 0.039992 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000161 s.
+Tempo gasto para ordenar uma lista crescente: 0.038473 s.
+Desvio padrão de ordenar uma lista crescente: 0.003722 s.
+Tempo gasto para ordenar uma lista decrescente: 0.037100 s.
+Desvio padrão de ordenar uma lista decrescente: 0.001135 s.
+
+Método: Radix sort.
+Tamanho da lista: 70000.
+Tempo gasto para ordenar uma lista aleatória: 0.005700 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000030 s.
+Tempo gasto para ordenar uma lista crescente: 0.007904 s.
+Desvio padrão de ordenar uma lista crescente: 0.000050 s.
+Tempo gasto para ordenar uma lista decrescente: 0.013386 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000066 s.
+
+Método: Heap sort.
+Tamanho da lista: 70000.
+Tempo gasto para ordenar uma lista aleatória: 0.016386 s.
+Desvio padrão de ordenar uma lista aleatória: 0.001914 s.
+Tempo gasto para ordenar uma lista crescente: 0.012405 s.
+Desvio padrão de ordenar uma lista crescente: 0.001820 s.
+Tempo gasto para ordenar uma lista decrescente: 0.012091 s.
+Desvio padrão de ordenar uma lista decrescente: 0.001675 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 75000.
+Tempo gasto para ordenar uma lista aleatória: 14.721553 s.
+Desvio padrão de ordenar uma lista aleatória: 0.036598 s.
+Tempo gasto para ordenar uma lista crescente: 5.314246 s.
+Desvio padrão de ordenar uma lista crescente: 0.028455 s.
+Tempo gasto para ordenar uma lista decrescente: 10.975976 s.
+Desvio padrão de ordenar uma lista decrescente: 0.034467 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 75000.
+Tempo gasto para ordenar uma lista aleatória: 14.656853 s.
+Desvio padrão de ordenar uma lista aleatória: 0.034827 s.
+Tempo gasto para ordenar uma lista crescente: 0.000152 s.
+Desvio padrão de ordenar uma lista crescente: 0.000010 s.
+Tempo gasto para ordenar uma lista decrescente: 11.043477 s.
+Desvio padrão de ordenar uma lista decrescente: 0.045500 s.
+
+Método: Quick sort.
+Tamanho da lista: 75000.
+Tempo gasto para ordenar uma lista aleatória: 0.043896 s.
+Desvio padrão de ordenar uma lista aleatória: 0.002480 s.
+Tempo gasto para ordenar uma lista crescente: 0.039705 s.
+Desvio padrão de ordenar uma lista crescente: 0.004289 s.
+Tempo gasto para ordenar uma lista decrescente: 0.040057 s.
+Desvio padrão de ordenar uma lista decrescente: 0.004590 s.
+
+Método: Radix sort.
+Tamanho da lista: 75000.
+Tempo gasto para ordenar uma lista aleatória: 0.006297 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000102 s.
+Tempo gasto para ordenar uma lista crescente: 0.008457 s.
+Desvio padrão de ordenar uma lista crescente: 0.000045 s.
+Tempo gasto para ordenar uma lista decrescente: 0.014408 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000325 s.
+
+Método: Heap sort.
+Tamanho da lista: 75000.
+Tempo gasto para ordenar uma lista aleatória: 0.017361 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000299 s.
+Tempo gasto para ordenar uma lista crescente: 0.012911 s.
+Desvio padrão de ordenar uma lista crescente: 0.000096 s.
+Tempo gasto para ordenar uma lista decrescente: 0.012521 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000069 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 80000.
+Tempo gasto para ordenar uma lista aleatória: 16.778022 s.
+Desvio padrão de ordenar uma lista aleatória: 0.027127 s.
+Tempo gasto para ordenar uma lista crescente: 6.039488 s.
+Desvio padrão de ordenar uma lista crescente: 0.027610 s.
+Tempo gasto para ordenar uma lista decrescente: 12.492150 s.
+Desvio padrão de ordenar uma lista decrescente: 0.041818 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 80000.
+Tempo gasto para ordenar uma lista aleatória: 16.725323 s.
+Desvio padrão de ordenar uma lista aleatória: 0.030058 s.
+Tempo gasto para ordenar uma lista crescente: 0.000160 s.
+Desvio padrão de ordenar uma lista crescente: 0.000007 s.
+Tempo gasto para ordenar uma lista decrescente: 12.566956 s.
+Desvio padrão de ordenar uma lista decrescente: 0.031518 s.
+
+Método: Quick sort.
+Tamanho da lista: 80000.
+Tempo gasto para ordenar uma lista aleatória: 0.046499 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000233 s.
+Tempo gasto para ordenar uma lista crescente: 0.039883 s.
+Desvio padrão de ordenar uma lista crescente: 0.001410 s.
+Tempo gasto para ordenar uma lista decrescente: 0.040478 s.
+Desvio padrão de ordenar uma lista decrescente: 0.001085 s.
+
+Método: Radix sort.
+Tamanho da lista: 80000.
+Tempo gasto para ordenar uma lista aleatória: 0.006716 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000041 s.
+Tempo gasto para ordenar uma lista crescente: 0.009022 s.
+Desvio padrão de ordenar uma lista crescente: 0.000066 s.
+Tempo gasto para ordenar uma lista decrescente: 0.015289 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000077 s.
+
+Método: Heap sort.
+Tamanho da lista: 80000.
+Tempo gasto para ordenar uma lista aleatória: 0.018622 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000074 s.
+Tempo gasto para ordenar uma lista crescente: 0.013905 s.
+Desvio padrão de ordenar uma lista crescente: 0.000156 s.
+Tempo gasto para ordenar uma lista decrescente: 0.013446 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000073 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 85000.
+Tempo gasto para ordenar uma lista aleatória: 18.984722 s.
+Desvio padrão de ordenar uma lista aleatória: 0.026903 s.
+Tempo gasto para ordenar uma lista crescente: 6.800782 s.
+Desvio padrão de ordenar uma lista crescente: 0.006693 s.
+Tempo gasto para ordenar uma lista decrescente: 14.145291 s.
+Desvio padrão de ordenar uma lista decrescente: 0.027716 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 85000.
+Tempo gasto para ordenar uma lista aleatória: 18.927639 s.
+Desvio padrão de ordenar uma lista aleatória: 0.035809 s.
+Tempo gasto para ordenar uma lista crescente: 0.000176 s.
+Desvio padrão de ordenar uma lista crescente: 0.000024 s.
+Tempo gasto para ordenar uma lista decrescente: 14.166081 s.
+Desvio padrão de ordenar uma lista decrescente: 0.036135 s.
+
+Método: Quick sort.
+Tamanho da lista: 85000.
+Tempo gasto para ordenar uma lista aleatória: 0.049150 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000186 s.
+Tempo gasto para ordenar uma lista crescente: 0.043659 s.
+Desvio padrão de ordenar uma lista crescente: 0.004028 s.
+Tempo gasto para ordenar uma lista decrescente: 0.043120 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000746 s.
+
+Método: Radix sort.
+Tamanho da lista: 85000.
+Tempo gasto para ordenar uma lista aleatória: 0.007108 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000051 s.
+Tempo gasto para ordenar uma lista crescente: 0.009605 s.
+Desvio padrão de ordenar uma lista crescente: 0.000048 s.
+Tempo gasto para ordenar uma lista decrescente: 0.016236 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000052 s.
+
+Método: Heap sort.
+Tamanho da lista: 85000.
+Tempo gasto para ordenar uma lista aleatória: 0.019885 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000085 s.
+Tempo gasto para ordenar uma lista crescente: 0.014811 s.
+Desvio padrão de ordenar uma lista crescente: 0.000085 s.
+Tempo gasto para ordenar uma lista decrescente: 0.014418 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000079 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 90000.
+Tempo gasto para ordenar uma lista aleatória: 21.292644 s.
+Desvio padrão de ordenar uma lista aleatória: 0.039806 s.
+Tempo gasto para ordenar uma lista crescente: 7.648074 s.
+Desvio padrão de ordenar uma lista crescente: 0.031138 s.
+Tempo gasto para ordenar uma lista decrescente: 15.856753 s.
+Desvio padrão de ordenar uma lista decrescente: 0.048848 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 90000.
+Tempo gasto para ordenar uma lista aleatória: 21.124105 s.
+Desvio padrão de ordenar uma lista aleatória: 0.035173 s.
+Tempo gasto para ordenar uma lista crescente: 0.000184 s.
+Desvio padrão de ordenar uma lista crescente: 0.000010 s.
+Tempo gasto para ordenar uma lista decrescente: 15.826824 s.
+Desvio padrão de ordenar uma lista decrescente: 0.046476 s.
+
+Método: Quick sort.
+Tamanho da lista: 90000.
+Tempo gasto para ordenar uma lista aleatória: 0.051624 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000172 s.
+Tempo gasto para ordenar uma lista crescente: 0.044611 s.
+Desvio padrão de ordenar uma lista crescente: 0.004763 s.
+Tempo gasto para ordenar uma lista decrescente: 0.046464 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000750 s.
+
+Método: Radix sort.
+Tamanho da lista: 90000.
+Tempo gasto para ordenar uma lista aleatória: 0.007313 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000053 s.
+Tempo gasto para ordenar uma lista crescente: 0.010159 s.
+Desvio padrão de ordenar uma lista crescente: 0.000061 s.
+Tempo gasto para ordenar uma lista decrescente: 0.017159 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000103 s.
+
+Método: Heap sort.
+Tamanho da lista: 90000.
+Tempo gasto para ordenar uma lista aleatória: 0.020793 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000092 s.
+Tempo gasto para ordenar uma lista crescente: 0.015618 s.
+Desvio padrão de ordenar uma lista crescente: 0.000061 s.
+Tempo gasto para ordenar uma lista decrescente: 0.015148 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000076 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 95000.
+Tempo gasto para ordenar uma lista aleatória: 23.729536 s.
+Desvio padrão de ordenar uma lista aleatória: 0.049151 s.
+Tempo gasto para ordenar uma lista crescente: 8.514767 s.
+Desvio padrão de ordenar uma lista crescente: 0.028233 s.
+Tempo gasto para ordenar uma lista decrescente: 17.626534 s.
+Desvio padrão de ordenar uma lista decrescente: 0.036109 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 95000.
+Tempo gasto para ordenar uma lista aleatória: 23.626479 s.
+Desvio padrão de ordenar uma lista aleatória: 0.052411 s.
+Tempo gasto para ordenar uma lista crescente: 0.000193 s.
+Desvio padrão de ordenar uma lista crescente: 0.000011 s.
+Tempo gasto para ordenar uma lista decrescente: 17.725097 s.
+Desvio padrão de ordenar uma lista decrescente: 0.073778 s.
+
+Método: Quick sort.
+Tamanho da lista: 95000.
+Tempo gasto para ordenar uma lista aleatória: 0.055130 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000186 s.
+Tempo gasto para ordenar uma lista crescente: 0.048084 s.
+Desvio padrão de ordenar uma lista crescente: 0.002495 s.
+Tempo gasto para ordenar uma lista decrescente: 0.049314 s.
+Desvio padrão de ordenar uma lista decrescente: 0.001292 s.
+
+Método: Radix sort.
+Tamanho da lista: 95000.
+Tempo gasto para ordenar uma lista aleatória: 0.007928 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000043 s.
+Tempo gasto para ordenar uma lista crescente: 0.010706 s.
+Desvio padrão de ordenar uma lista crescente: 0.000047 s.
+Tempo gasto para ordenar uma lista decrescente: 0.018162 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000064 s.
+
+Método: Heap sort.
+Tamanho da lista: 95000.
+Tempo gasto para ordenar uma lista aleatória: 0.022394 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000076 s.
+Tempo gasto para ordenar uma lista crescente: 0.016668 s.
+Desvio padrão de ordenar uma lista crescente: 0.000109 s.
+Tempo gasto para ordenar uma lista decrescente: 0.016118 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000067 s.
+
+------------------------------------------------------------
+
+Método: Bubble sort.
+Tamanho da lista: 100000.
+Tempo gasto para ordenar uma lista aleatória: 26.338546 s.
+Desvio padrão de ordenar uma lista aleatória: 0.053688 s.
+Tempo gasto para ordenar uma lista crescente: 9.446916 s.
+Desvio padrão de ordenar uma lista crescente: 0.029414 s.
+Tempo gasto para ordenar uma lista decrescente: 19.516320 s.
+Desvio padrão de ordenar uma lista decrescente: 0.024172 s.
+
+Método: Bubble sort otimizado.
+Tamanho da lista: 100000.
+Tempo gasto para ordenar uma lista aleatória: 26.237211 s.
+Desvio padrão de ordenar uma lista aleatória: 0.050206 s.
+Tempo gasto para ordenar uma lista crescente: 0.000204 s.
+Desvio padrão de ordenar uma lista crescente: 0.000010 s.
+Tempo gasto para ordenar uma lista decrescente: 19.630429 s.
+Desvio padrão de ordenar uma lista decrescente: 0.041170 s.
+
+Método: Quick sort.
+Tamanho da lista: 100000.
+Tempo gasto para ordenar uma lista aleatória: 0.057942 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000237 s.
+Tempo gasto para ordenar uma lista crescente: 0.053728 s.
+Desvio padrão de ordenar uma lista crescente: 0.002871 s.
+Tempo gasto para ordenar uma lista decrescente: 0.053658 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000981 s.
+
+Método: Radix sort.
+Tamanho da lista: 100000.
+Tempo gasto para ordenar uma lista aleatória: 0.008238 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000050 s.
+Tempo gasto para ordenar uma lista crescente: 0.011284 s.
+Desvio padrão de ordenar uma lista crescente: 0.000049 s.
+Tempo gasto para ordenar uma lista decrescente: 0.019140 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000066 s.
+
+Método: Heap sort.
+Tamanho da lista: 100000.
+Tempo gasto para ordenar uma lista aleatória: 0.023642 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000091 s.
+Tempo gasto para ordenar uma lista crescente: 0.017695 s.
+Desvio padrão de ordenar uma lista crescente: 0.000107 s.
+Tempo gasto para ordenar uma lista decrescente: 0.017048 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000115 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 150000.
+Tempo gasto para ordenar uma lista aleatória: 0.088212 s.
+Desvio padrão de ordenar uma lista aleatória: 0.003609 s.
+Tempo gasto para ordenar uma lista crescente: 0.077062 s.
+Desvio padrão de ordenar uma lista crescente: 0.007318 s.
+Tempo gasto para ordenar uma lista decrescente: 0.078749 s.
+Desvio padrão de ordenar uma lista decrescente: 0.006336 s.
+
+Método: Radix sort.
+Tamanho da lista: 150000.
+Tempo gasto para ordenar uma lista aleatória: 0.014766 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000104 s.
+Tempo gasto para ordenar uma lista crescente: 0.016901 s.
+Desvio padrão de ordenar uma lista crescente: 0.000079 s.
+Tempo gasto para ordenar uma lista decrescente: 0.028647 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000115 s.
+
+Método: Heap sort.
+Tamanho da lista: 150000.
+Tempo gasto para ordenar uma lista aleatória: 0.037301 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000120 s.
+Tempo gasto para ordenar uma lista crescente: 0.027410 s.
+Desvio padrão de ordenar uma lista crescente: 0.000155 s.
+Tempo gasto para ordenar uma lista decrescente: 0.026488 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000138 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 200000.
+Tempo gasto para ordenar uma lista aleatória: 0.117350 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000330 s.
+Tempo gasto para ordenar uma lista crescente: 0.105742 s.
+Desvio padrão de ordenar uma lista crescente: 0.009681 s.
+Tempo gasto para ordenar uma lista decrescente: 0.106933 s.
+Desvio padrão de ordenar uma lista decrescente: 0.003092 s.
+
+Método: Radix sort.
+Tamanho da lista: 200000.
+Tempo gasto para ordenar uma lista aleatória: 0.019632 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000083 s.
+Tempo gasto para ordenar uma lista crescente: 0.022567 s.
+Desvio padrão de ordenar uma lista crescente: 0.000058 s.
+Tempo gasto para ordenar uma lista decrescente: 0.038199 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000076 s.
+
+Método: Heap sort.
+Tamanho da lista: 200000.
+Tempo gasto para ordenar uma lista aleatória: 0.051787 s.
+Desvio padrão de ordenar uma lista aleatória: 0.001791 s.
+Tempo gasto para ordenar uma lista crescente: 0.038291 s.
+Desvio padrão de ordenar uma lista crescente: 0.003704 s.
+Tempo gasto para ordenar uma lista decrescente: 0.036944 s.
+Desvio padrão de ordenar uma lista decrescente: 0.003693 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 250000.
+Tempo gasto para ordenar uma lista aleatória: 0.147373 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000577 s.
+Tempo gasto para ordenar uma lista crescente: 0.133428 s.
+Desvio padrão de ordenar uma lista crescente: 0.010789 s.
+Tempo gasto para ordenar uma lista decrescente: 0.133655 s.
+Desvio padrão de ordenar uma lista decrescente: 0.003329 s.
+
+Método: Radix sort.
+Tamanho da lista: 250000.
+Tempo gasto para ordenar uma lista aleatória: 0.024529 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000080 s.
+Tempo gasto para ordenar uma lista crescente: 0.032158 s.
+Desvio padrão de ordenar uma lista crescente: 0.000079 s.
+Tempo gasto para ordenar uma lista decrescente: 0.047787 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000130 s.
+
+Método: Heap sort.
+Tamanho da lista: 250000.
+Tempo gasto para ordenar uma lista aleatória: 0.066136 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000159 s.
+Tempo gasto para ordenar uma lista crescente: 0.047715 s.
+Desvio padrão de ordenar uma lista crescente: 0.000200 s.
+Tempo gasto para ordenar uma lista decrescente: 0.046392 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000168 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 300000.
+Tempo gasto para ordenar uma lista aleatória: 0.179170 s.
+Desvio padrão de ordenar uma lista aleatória: 0.010751 s.
+Tempo gasto para ordenar uma lista crescente: 0.162495 s.
+Desvio padrão de ordenar uma lista crescente: 0.009393 s.
+Tempo gasto para ordenar uma lista decrescente: 0.159065 s.
+Desvio padrão de ordenar uma lista decrescente: 0.003044 s.
+
+Método: Radix sort.
+Tamanho da lista: 300000.
+Tempo gasto para ordenar uma lista aleatória: 0.029414 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000121 s.
+Tempo gasto para ordenar uma lista crescente: 0.038634 s.
+Desvio padrão de ordenar uma lista crescente: 0.000111 s.
+Tempo gasto para ordenar uma lista decrescente: 0.057387 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000171 s.
+
+Método: Heap sort.
+Tamanho da lista: 300000.
+Tempo gasto para ordenar uma lista aleatória: 0.082885 s.
+Desvio padrão de ordenar uma lista aleatória: 0.008752 s.
+Tempo gasto para ordenar uma lista crescente: 0.058940 s.
+Desvio padrão de ordenar uma lista crescente: 0.002257 s.
+Tempo gasto para ordenar uma lista decrescente: 0.056671 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000243 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 350000.
+Tempo gasto para ordenar uma lista aleatória: 0.206853 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000682 s.
+Tempo gasto para ordenar uma lista crescente: 0.190358 s.
+Desvio padrão de ordenar uma lista crescente: 0.017268 s.
+Tempo gasto para ordenar uma lista decrescente: 0.187152 s.
+Desvio padrão de ordenar uma lista decrescente: 0.004634 s.
+
+Método: Radix sort.
+Tamanho da lista: 350000.
+Tempo gasto para ordenar uma lista aleatória: 0.034309 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000140 s.
+Tempo gasto para ordenar uma lista crescente: 0.045034 s.
+Desvio padrão de ordenar uma lista crescente: 0.000134 s.
+Tempo gasto para ordenar uma lista decrescente: 0.066916 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000140 s.
+
+Método: Heap sort.
+Tamanho da lista: 350000.
+Tempo gasto para ordenar uma lista aleatória: 0.097136 s.
+Desvio padrão de ordenar uma lista aleatória: 0.003622 s.
+Tempo gasto para ordenar uma lista crescente: 0.069319 s.
+Desvio padrão de ordenar uma lista crescente: 0.000298 s.
+Tempo gasto para ordenar uma lista decrescente: 0.068064 s.
+Desvio padrão de ordenar uma lista decrescente: 0.005115 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 400000.
+Tempo gasto para ordenar uma lista aleatória: 0.237168 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000794 s.
+Tempo gasto para ordenar uma lista crescente: 0.218382 s.
+Desvio padrão de ordenar uma lista crescente: 0.019701 s.
+Tempo gasto para ordenar uma lista decrescente: 0.216537 s.
+Desvio padrão de ordenar uma lista decrescente: 0.009084 s.
+
+Método: Radix sort.
+Tamanho da lista: 400000.
+Tempo gasto para ordenar uma lista aleatória: 0.039242 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000131 s.
+Tempo gasto para ordenar uma lista crescente: 0.051564 s.
+Desvio padrão de ordenar uma lista crescente: 0.000145 s.
+Tempo gasto para ordenar uma lista decrescente: 0.076638 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000292 s.
+
+Método: Heap sort.
+Tamanho da lista: 400000.
+Tempo gasto para ordenar uma lista aleatória: 0.112154 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000891 s.
+Tempo gasto para ordenar uma lista crescente: 0.080215 s.
+Desvio padrão de ordenar uma lista crescente: 0.000415 s.
+Tempo gasto para ordenar uma lista decrescente: 0.077626 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000282 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 450000.
+Tempo gasto para ordenar uma lista aleatória: 0.266637 s.
+Desvio padrão de ordenar uma lista aleatória: 0.001177 s.
+Tempo gasto para ordenar uma lista crescente: 0.243605 s.
+Desvio padrão de ordenar uma lista crescente: 0.027788 s.
+Tempo gasto para ordenar uma lista decrescente: 0.242044 s.
+Desvio padrão de ordenar uma lista decrescente: 0.007237 s.
+
+Método: Radix sort.
+Tamanho da lista: 450000.
+Tempo gasto para ordenar uma lista aleatória: 0.044194 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000207 s.
+Tempo gasto para ordenar uma lista crescente: 0.058897 s.
+Desvio padrão de ordenar uma lista crescente: 0.003360 s.
+Tempo gasto para ordenar uma lista decrescente: 0.087723 s.
+Desvio padrão de ordenar uma lista decrescente: 0.006071 s.
+
+Método: Heap sort.
+Tamanho da lista: 450000.
+Tempo gasto para ordenar uma lista aleatória: 0.127674 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000151 s.
+Tempo gasto para ordenar uma lista crescente: 0.091000 s.
+Desvio padrão de ordenar uma lista crescente: 0.000243 s.
+Tempo gasto para ordenar uma lista decrescente: 0.088521 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000284 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 500000.
+Tempo gasto para ordenar uma lista aleatória: 0.298149 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000893 s.
+Tempo gasto para ordenar uma lista crescente: 0.261169 s.
+Desvio padrão de ordenar uma lista crescente: 0.021260 s.
+Tempo gasto para ordenar uma lista decrescente: 0.271183 s.
+Desvio padrão de ordenar uma lista decrescente: 0.009764 s.
+
+Método: Radix sort.
+Tamanho da lista: 500000.
+Tempo gasto para ordenar uma lista aleatória: 0.049333 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000157 s.
+Tempo gasto para ordenar uma lista crescente: 0.064845 s.
+Desvio padrão de ordenar uma lista crescente: 0.000081 s.
+Tempo gasto para ordenar uma lista decrescente: 0.096340 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000149 s.
+
+Método: Heap sort.
+Tamanho da lista: 500000.
+Tempo gasto para ordenar uma lista aleatória: 0.143763 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000229 s.
+Tempo gasto para ordenar uma lista crescente: 0.103570 s.
+Desvio padrão de ordenar uma lista crescente: 0.008828 s.
+Tempo gasto para ordenar uma lista decrescente: 0.099810 s.
+Desvio padrão de ordenar uma lista decrescente: 0.002441 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 550000.
+Tempo gasto para ordenar uma lista aleatória: 0.327198 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000833 s.
+Tempo gasto para ordenar uma lista crescente: 0.297790 s.
+Desvio padrão de ordenar uma lista crescente: 0.026647 s.
+Tempo gasto para ordenar uma lista decrescente: 0.295017 s.
+Desvio padrão de ordenar uma lista decrescente: 0.007492 s.
+
+Método: Radix sort.
+Tamanho da lista: 550000.
+Tempo gasto para ordenar uma lista aleatória: 0.054371 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000161 s.
+Tempo gasto para ordenar uma lista crescente: 0.071472 s.
+Desvio padrão de ordenar uma lista crescente: 0.000118 s.
+Tempo gasto para ordenar uma lista decrescente: 0.106113 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000217 s.
+
+Método: Heap sort.
+Tamanho da lista: 550000.
+Tempo gasto para ordenar uma lista aleatória: 0.159936 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000435 s.
+Tempo gasto para ordenar uma lista crescente: 0.114059 s.
+Desvio padrão de ordenar uma lista crescente: 0.004580 s.
+Tempo gasto para ordenar uma lista decrescente: 0.111578 s.
+Desvio padrão de ordenar uma lista decrescente: 0.006161 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 600000.
+Tempo gasto para ordenar uma lista aleatória: 0.360826 s.
+Desvio padrão de ordenar uma lista aleatória: 0.010714 s.
+Tempo gasto para ordenar uma lista crescente: 0.322432 s.
+Desvio padrão de ordenar uma lista crescente: 0.028760 s.
+Tempo gasto para ordenar uma lista decrescente: 0.321891 s.
+Desvio padrão de ordenar uma lista decrescente: 0.009870 s.
+
+Método: Radix sort.
+Tamanho da lista: 600000.
+Tempo gasto para ordenar uma lista aleatória: 0.059452 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000222 s.
+Tempo gasto para ordenar uma lista crescente: 0.078176 s.
+Desvio padrão de ordenar uma lista crescente: 0.000239 s.
+Tempo gasto para ordenar uma lista decrescente: 0.118059 s.
+Desvio padrão de ordenar uma lista decrescente: 0.009044 s.
+
+Método: Heap sort.
+Tamanho da lista: 600000.
+Tempo gasto para ordenar uma lista aleatória: 0.176198 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000207 s.
+Tempo gasto para ordenar uma lista crescente: 0.124439 s.
+Desvio padrão de ordenar uma lista crescente: 0.000230 s.
+Tempo gasto para ordenar uma lista decrescente: 0.121459 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000282 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 650000.
+Tempo gasto para ordenar uma lista aleatória: 0.389198 s.
+Desvio padrão de ordenar uma lista aleatória: 0.001171 s.
+Tempo gasto para ordenar uma lista crescente: 0.356691 s.
+Desvio padrão de ordenar uma lista crescente: 0.026926 s.
+Tempo gasto para ordenar uma lista decrescente: 0.353207 s.
+Desvio padrão de ordenar uma lista decrescente: 0.018265 s.
+
+Método: Radix sort.
+Tamanho da lista: 650000.
+Tempo gasto para ordenar uma lista aleatória: 0.064599 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000220 s.
+Tempo gasto para ordenar uma lista crescente: 0.085035 s.
+Desvio padrão de ordenar uma lista crescente: 0.000322 s.
+Tempo gasto para ordenar uma lista decrescente: 0.126157 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000255 s.
+
+Método: Heap sort.
+Tamanho da lista: 650000.
+Tempo gasto para ordenar uma lista aleatória: 0.192767 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000265 s.
+Tempo gasto para ordenar uma lista crescente: 0.137231 s.
+Desvio padrão de ordenar uma lista crescente: 0.005852 s.
+Tempo gasto para ordenar uma lista decrescente: 0.133391 s.
+Desvio padrão de ordenar uma lista decrescente: 0.005035 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 700000.
+Tempo gasto para ordenar uma lista aleatória: 0.420263 s.
+Desvio padrão de ordenar uma lista aleatória: 0.001206 s.
+Tempo gasto para ordenar uma lista crescente: 0.374352 s.
+Desvio padrão de ordenar uma lista crescente: 0.034307 s.
+Tempo gasto para ordenar uma lista decrescente: 0.375768 s.
+Desvio padrão de ordenar uma lista decrescente: 0.011770 s.
+
+Método: Radix sort.
+Tamanho da lista: 700000.
+Tempo gasto para ordenar uma lista aleatória: 0.069702 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000218 s.
+Tempo gasto para ordenar uma lista crescente: 0.091693 s.
+Desvio padrão de ordenar uma lista crescente: 0.000237 s.
+Tempo gasto para ordenar uma lista decrescente: 0.138065 s.
+Desvio padrão de ordenar uma lista decrescente: 0.009658 s.
+
+Método: Heap sort.
+Tamanho da lista: 700000.
+Tempo gasto para ordenar uma lista aleatória: 0.209618 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000268 s.
+Tempo gasto para ordenar uma lista crescente: 0.147376 s.
+Desvio padrão de ordenar uma lista crescente: 0.000341 s.
+Tempo gasto para ordenar uma lista decrescente: 0.144213 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000415 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 750000.
+Tempo gasto para ordenar uma lista aleatória: 0.450108 s.
+Desvio padrão de ordenar uma lista aleatória: 0.001365 s.
+Tempo gasto para ordenar uma lista crescente: 0.415265 s.
+Desvio padrão de ordenar uma lista crescente: 0.034951 s.
+Tempo gasto para ordenar uma lista decrescente: 0.409504 s.
+Desvio padrão de ordenar uma lista decrescente: 0.015346 s.
+
+Método: Radix sort.
+Tamanho da lista: 750000.
+Tempo gasto para ordenar uma lista aleatória: 0.074811 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000458 s.
+Tempo gasto para ordenar uma lista crescente: 0.098336 s.
+Desvio padrão de ordenar uma lista crescente: 0.000338 s.
+Tempo gasto para ordenar uma lista decrescente: 0.146148 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000266 s.
+
+Método: Heap sort.
+Tamanho da lista: 750000.
+Tempo gasto para ordenar uma lista aleatória: 0.226577 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000397 s.
+Tempo gasto para ordenar uma lista crescente: 0.158760 s.
+Desvio padrão de ordenar uma lista crescente: 0.000261 s.
+Tempo gasto para ordenar uma lista decrescente: 0.156515 s.
+Desvio padrão de ordenar uma lista decrescente: 0.011154 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 800000.
+Tempo gasto para ordenar uma lista aleatória: 0.482261 s.
+Desvio padrão de ordenar uma lista aleatória: 0.001515 s.
+Tempo gasto para ordenar uma lista crescente: 0.436520 s.
+Desvio padrão de ordenar uma lista crescente: 0.032235 s.
+Tempo gasto para ordenar uma lista decrescente: 0.436239 s.
+Desvio padrão de ordenar uma lista decrescente: 0.017437 s.
+
+Método: Radix sort.
+Tamanho da lista: 800000.
+Tempo gasto para ordenar uma lista aleatória: 0.079918 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000227 s.
+Tempo gasto para ordenar uma lista crescente: 0.105360 s.
+Desvio padrão de ordenar uma lista crescente: 0.000240 s.
+Tempo gasto para ordenar uma lista decrescente: 0.156438 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000201 s.
+
+Método: Heap sort.
+Tamanho da lista: 800000.
+Tempo gasto para ordenar uma lista aleatória: 0.243866 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000537 s.
+Tempo gasto para ordenar uma lista crescente: 0.170600 s.
+Desvio padrão de ordenar uma lista crescente: 0.000348 s.
+Tempo gasto para ordenar uma lista decrescente: 0.166504 s.
+Desvio padrão de ordenar uma lista decrescente: 0.005350 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 850000.
+Tempo gasto para ordenar uma lista aleatória: 0.512664 s.
+Desvio padrão de ordenar uma lista aleatória: 0.001394 s.
+Tempo gasto para ordenar uma lista crescente: 0.476720 s.
+Desvio padrão de ordenar uma lista crescente: 0.039275 s.
+Tempo gasto para ordenar uma lista decrescente: 0.466986 s.
+Desvio padrão de ordenar uma lista decrescente: 0.016966 s.
+
+Método: Radix sort.
+Tamanho da lista: 850000.
+Tempo gasto para ordenar uma lista aleatória: 0.084998 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000209 s.
+Tempo gasto para ordenar uma lista crescente: 0.112132 s.
+Desvio padrão de ordenar uma lista crescente: 0.000139 s.
+Tempo gasto para ordenar uma lista decrescente: 0.166545 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000245 s.
+
+Método: Heap sort.
+Tamanho da lista: 850000.
+Tempo gasto para ordenar uma lista aleatória: 0.261057 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000380 s.
+Tempo gasto para ordenar uma lista crescente: 0.184196 s.
+Desvio padrão de ordenar uma lista crescente: 0.010874 s.
+Tempo gasto para ordenar uma lista decrescente: 0.177624 s.
+Desvio padrão de ordenar uma lista decrescente: 0.001821 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 900000.
+Tempo gasto para ordenar uma lista aleatória: 0.545418 s.
+Desvio padrão de ordenar uma lista aleatória: 0.010825 s.
+Tempo gasto para ordenar uma lista crescente: 0.483108 s.
+Desvio padrão de ordenar uma lista crescente: 0.047062 s.
+Tempo gasto para ordenar uma lista decrescente: 0.491288 s.
+Desvio padrão de ordenar uma lista decrescente: 0.021996 s.
+
+Método: Radix sort.
+Tamanho da lista: 900000.
+Tempo gasto para ordenar uma lista aleatória: 0.091001 s.
+Desvio padrão de ordenar uma lista aleatória: 0.005175 s.
+Tempo gasto para ordenar uma lista crescente: 0.118730 s.
+Desvio padrão de ordenar uma lista crescente: 0.000234 s.
+Tempo gasto para ordenar uma lista decrescente: 0.176393 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000554 s.
+
+Método: Heap sort.
+Tamanho da lista: 900000.
+Tempo gasto para ordenar uma lista aleatória: 0.280888 s.
+Desvio padrão de ordenar uma lista aleatória: 0.011225 s.
+Tempo gasto para ordenar uma lista crescente: 0.193091 s.
+Desvio padrão de ordenar uma lista crescente: 0.000428 s.
+Tempo gasto para ordenar uma lista decrescente: 0.188133 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000529 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 950000.
+Tempo gasto para ordenar uma lista aleatória: 0.572109 s.
+Desvio padrão de ordenar uma lista aleatória: 0.001502 s.
+Tempo gasto para ordenar uma lista crescente: 0.520785 s.
+Desvio padrão de ordenar uma lista crescente: 0.038228 s.
+Tempo gasto para ordenar uma lista decrescente: 0.523153 s.
+Desvio padrão de ordenar uma lista decrescente: 0.019900 s.
+
+Método: Radix sort.
+Tamanho da lista: 950000.
+Tempo gasto para ordenar uma lista aleatória: 0.095192 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000219 s.
+Tempo gasto para ordenar uma lista crescente: 0.125602 s.
+Desvio padrão de ordenar uma lista crescente: 0.000175 s.
+Tempo gasto para ordenar uma lista decrescente: 0.186510 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000293 s.
+
+Método: Heap sort.
+Tamanho da lista: 950000.
+Tempo gasto para ordenar uma lista aleatória: 0.296673 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000640 s.
+Tempo gasto para ordenar uma lista crescente: 0.204908 s.
+Desvio padrão de ordenar uma lista crescente: 0.000261 s.
+Tempo gasto para ordenar uma lista decrescente: 0.201887 s.
+Desvio padrão de ordenar uma lista decrescente: 0.010881 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 1000000.
+Tempo gasto para ordenar uma lista aleatória: 0.604773 s.
+Desvio padrão de ordenar uma lista aleatória: 0.011520 s.
+Tempo gasto para ordenar uma lista crescente: 0.557524 s.
+Desvio padrão de ordenar uma lista crescente: 0.037652 s.
+Tempo gasto para ordenar uma lista decrescente: 0.542777 s.
+Desvio padrão de ordenar uma lista decrescente: 0.020716 s.
+
+Método: Radix sort.
+Tamanho da lista: 1000000.
+Tempo gasto para ordenar uma lista aleatória: 0.100186 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000146 s.
+Tempo gasto para ordenar uma lista crescente: 0.132185 s.
+Desvio padrão de ordenar uma lista crescente: 0.000261 s.
+Tempo gasto para ordenar uma lista decrescente: 0.196382 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000391 s.
+
+Método: Heap sort.
+Tamanho da lista: 1000000.
+Tempo gasto para ordenar uma lista aleatória: 0.318544 s.
+Desvio padrão de ordenar uma lista aleatória: 0.015072 s.
+Tempo gasto para ordenar uma lista crescente: 0.215969 s.
+Desvio padrão de ordenar uma lista crescente: 0.000424 s.
+Tempo gasto para ordenar uma lista decrescente: 0.211536 s.
+Desvio padrão de ordenar uma lista decrescente: 0.001215 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 1500000.
+Tempo gasto para ordenar uma lista aleatória: 0.912063 s.
+Desvio padrão de ordenar uma lista aleatória: 0.010647 s.
+Tempo gasto para ordenar uma lista crescente: 0.807389 s.
+Desvio padrão de ordenar uma lista crescente: 0.059373 s.
+Tempo gasto para ordenar uma lista decrescente: 0.817295 s.
+Desvio padrão de ordenar uma lista decrescente: 0.029164 s.
+
+Método: Radix sort.
+Tamanho da lista: 1500000.
+Tempo gasto para ordenar uma lista aleatória: 0.175562 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000503 s.
+Tempo gasto para ordenar uma lista crescente: 0.199318 s.
+Desvio padrão de ordenar uma lista crescente: 0.000395 s.
+Tempo gasto para ordenar uma lista decrescente: 0.296202 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000566 s.
+
+Método: Heap sort.
+Tamanho da lista: 1500000.
+Tempo gasto para ordenar uma lista aleatória: 0.517441 s.
+Desvio padrão de ordenar uma lista aleatória: 0.016241 s.
+Tempo gasto para ordenar uma lista crescente: 0.339312 s.
+Desvio padrão de ordenar uma lista crescente: 0.010921 s.
+Tempo gasto para ordenar uma lista decrescente: 0.327924 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000839 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 2000000.
+Tempo gasto para ordenar uma lista aleatória: 1.220783 s.
+Desvio padrão de ordenar uma lista aleatória: 0.013465 s.
+Tempo gasto para ordenar uma lista crescente: 1.107384 s.
+Desvio padrão de ordenar uma lista crescente: 0.054793 s.
+Tempo gasto para ordenar uma lista decrescente: 1.095490 s.
+Desvio padrão de ordenar uma lista decrescente: 0.032144 s.
+
+Método: Radix sort.
+Tamanho da lista: 2000000.
+Tempo gasto para ordenar uma lista aleatória: 0.234309 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000312 s.
+Tempo gasto para ordenar uma lista crescente: 0.265707 s.
+Desvio padrão de ordenar uma lista crescente: 0.000461 s.
+Tempo gasto para ordenar uma lista decrescente: 0.396728 s.
+Desvio padrão de ordenar uma lista decrescente: 0.009124 s.
+
+Método: Heap sort.
+Tamanho da lista: 2000000.
+Tempo gasto para ordenar uma lista aleatória: 0.763682 s.
+Desvio padrão de ordenar uma lista aleatória: 0.020210 s.
+Tempo gasto para ordenar uma lista crescente: 0.459935 s.
+Desvio padrão de ordenar uma lista crescente: 0.007967 s.
+Tempo gasto para ordenar uma lista decrescente: 0.447502 s.
+Desvio padrão de ordenar uma lista decrescente: 0.001488 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 2500000.
+Tempo gasto para ordenar uma lista aleatória: 1.516104 s.
+Desvio padrão de ordenar uma lista aleatória: 0.014969 s.
+Tempo gasto para ordenar uma lista crescente: 1.372435 s.
+Desvio padrão de ordenar uma lista crescente: 0.077041 s.
+Tempo gasto para ordenar uma lista decrescente: 1.357832 s.
+Desvio padrão de ordenar uma lista decrescente: 0.032248 s.
+
+Método: Radix sort.
+Tamanho da lista: 2500000.
+Tempo gasto para ordenar uma lista aleatória: 0.294169 s.
+Desvio padrão de ordenar uma lista aleatória: 0.009489 s.
+Tempo gasto para ordenar uma lista crescente: 0.372377 s.
+Desvio padrão de ordenar uma lista crescente: 0.000653 s.
+Tempo gasto para ordenar uma lista decrescente: 0.493702 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000765 s.
+
+Método: Heap sort.
+Tamanho da lista: 2500000.
+Tempo gasto para ordenar uma lista aleatória: 1.032822 s.
+Desvio padrão de ordenar uma lista aleatória: 0.010493 s.
+Tempo gasto para ordenar uma lista crescente: 0.586386 s.
+Desvio padrão de ordenar uma lista crescente: 0.011391 s.
+Tempo gasto para ordenar uma lista decrescente: 0.569125 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000708 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 3000000.
+Tempo gasto para ordenar uma lista aleatória: 1.822690 s.
+Desvio padrão de ordenar uma lista aleatória: 0.015290 s.
+Tempo gasto para ordenar uma lista crescente: 1.622063 s.
+Desvio padrão de ordenar uma lista crescente: 0.089752 s.
+Tempo gasto para ordenar uma lista decrescente: 1.618590 s.
+Desvio padrão de ordenar uma lista decrescente: 0.042644 s.
+
+Método: Radix sort.
+Tamanho da lista: 3000000.
+Tempo gasto para ordenar uma lista aleatória: 0.351092 s.
+Desvio padrão de ordenar uma lista aleatória: 0.004679 s.
+Tempo gasto para ordenar uma lista crescente: 0.448144 s.
+Desvio padrão de ordenar uma lista crescente: 0.004936 s.
+Tempo gasto para ordenar uma lista decrescente: 0.590581 s.
+Desvio padrão de ordenar uma lista decrescente: 0.000871 s.
+
+Método: Heap sort.
+Tamanho da lista: 3000000.
+Tempo gasto para ordenar uma lista aleatória: 1.324323 s.
+Desvio padrão de ordenar uma lista aleatória: 0.021008 s.
+Tempo gasto para ordenar uma lista crescente: 0.713739 s.
+Desvio padrão de ordenar uma lista crescente: 0.000947 s.
+Tempo gasto para ordenar uma lista decrescente: 0.694758 s.
+Desvio padrão de ordenar uma lista decrescente: 0.001083 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 3500000.
+Tempo gasto para ordenar uma lista aleatória: 2.130746 s.
+Desvio padrão de ordenar uma lista aleatória: 0.014837 s.
+Tempo gasto para ordenar uma lista crescente: 1.897406 s.
+Desvio padrão de ordenar uma lista crescente: 0.124466 s.
+Tempo gasto para ordenar uma lista decrescente: 1.897650 s.
+Desvio padrão de ordenar uma lista decrescente: 0.053372 s.
+
+Método: Radix sort.
+Tamanho da lista: 3500000.
+Tempo gasto para ordenar uma lista aleatória: 0.407345 s.
+Desvio padrão de ordenar uma lista aleatória: 0.001109 s.
+Tempo gasto para ordenar uma lista crescente: 0.519841 s.
+Desvio padrão de ordenar uma lista crescente: 0.000933 s.
+Tempo gasto para ordenar uma lista decrescente: 0.692329 s.
+Desvio padrão de ordenar uma lista decrescente: 0.012965 s.
+
+Método: Heap sort.
+Tamanho da lista: 3500000.
+Tempo gasto para ordenar uma lista aleatória: 1.617914 s.
+Desvio padrão de ordenar uma lista aleatória: 0.017540 s.
+Tempo gasto para ordenar uma lista crescente: 0.846020 s.
+Desvio padrão de ordenar uma lista crescente: 0.012128 s.
+Tempo gasto para ordenar uma lista decrescente: 0.827224 s.
+Desvio padrão de ordenar uma lista decrescente: 0.012225 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 4000000.
+Tempo gasto para ordenar uma lista aleatória: 2.441236 s.
+Desvio padrão de ordenar uma lista aleatória: 0.016702 s.
+Tempo gasto para ordenar uma lista crescente: 2.160816 s.
+Desvio padrão de ordenar uma lista crescente: 0.114604 s.
+Tempo gasto para ordenar uma lista decrescente: 2.165284 s.
+Desvio padrão de ordenar uma lista decrescente: 0.051970 s.
+
+Método: Radix sort.
+Tamanho da lista: 4000000.
+Tempo gasto para ordenar uma lista aleatória: 0.465625 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000982 s.
+Tempo gasto para ordenar uma lista crescente: 0.595451 s.
+Desvio padrão de ordenar uma lista crescente: 0.009254 s.
+Tempo gasto para ordenar uma lista decrescente: 0.788017 s.
+Desvio padrão de ordenar uma lista decrescente: 0.009143 s.
+
+Método: Heap sort.
+Tamanho da lista: 4000000.
+Tempo gasto para ordenar uma lista aleatória: 1.927452 s.
+Desvio padrão de ordenar uma lista aleatória: 0.015195 s.
+Tempo gasto para ordenar uma lista crescente: 0.977452 s.
+Desvio padrão de ordenar uma lista crescente: 0.014412 s.
+Tempo gasto para ordenar uma lista decrescente: 0.953835 s.
+Desvio padrão de ordenar uma lista decrescente: 0.011821 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 4500000.
+Tempo gasto para ordenar uma lista aleatória: 2.755382 s.
+Desvio padrão de ordenar uma lista aleatória: 0.022959 s.
+Tempo gasto para ordenar uma lista crescente: 2.455899 s.
+Desvio padrão de ordenar uma lista crescente: 0.137788 s.
+Tempo gasto para ordenar uma lista decrescente: 2.452798 s.
+Desvio padrão de ordenar uma lista decrescente: 0.058698 s.
+
+Método: Radix sort.
+Tamanho da lista: 4500000.
+Tempo gasto para ordenar uma lista aleatória: 0.524922 s.
+Desvio padrão de ordenar uma lista aleatória: 0.009606 s.
+Tempo gasto para ordenar uma lista crescente: 0.667725 s.
+Desvio padrão de ordenar uma lista crescente: 0.000943 s.
+Tempo gasto para ordenar uma lista decrescente: 0.887471 s.
+Desvio padrão de ordenar uma lista decrescente: 0.013323 s.
+
+Método: Heap sort.
+Tamanho da lista: 4500000.
+Tempo gasto para ordenar uma lista aleatória: 2.242134 s.
+Desvio padrão de ordenar uma lista aleatória: 0.013494 s.
+Tempo gasto para ordenar uma lista crescente: 1.107995 s.
+Desvio padrão de ordenar uma lista crescente: 0.015487 s.
+Tempo gasto para ordenar uma lista decrescente: 1.090580 s.
+Desvio padrão de ordenar uma lista decrescente: 0.017349 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 5000000.
+Tempo gasto para ordenar uma lista aleatória: 3.063341 s.
+Desvio padrão de ordenar uma lista aleatória: 0.020209 s.
+Tempo gasto para ordenar uma lista crescente: 2.742900 s.
+Desvio padrão de ordenar uma lista crescente: 0.136585 s.
+Tempo gasto para ordenar uma lista decrescente: 2.723576 s.
+Desvio padrão de ordenar uma lista decrescente: 0.062290 s.
+
+Método: Radix sort.
+Tamanho da lista: 5000000.
+Tempo gasto para ordenar uma lista aleatória: 0.583751 s.
+Desvio padrão de ordenar uma lista aleatória: 0.001140 s.
+Tempo gasto para ordenar uma lista crescente: 0.743639 s.
+Desvio padrão de ordenar uma lista crescente: 0.008274 s.
+Tempo gasto para ordenar uma lista decrescente: 0.984928 s.
+Desvio padrão de ordenar uma lista decrescente: 0.010888 s.
+
+Método: Heap sort.
+Tamanho da lista: 5000000.
+Tempo gasto para ordenar uma lista aleatória: 2.562268 s.
+Desvio padrão de ordenar uma lista aleatória: 0.017543 s.
+Tempo gasto para ordenar uma lista crescente: 1.243748 s.
+Desvio padrão de ordenar uma lista crescente: 0.015893 s.
+Tempo gasto para ordenar uma lista decrescente: 1.214952 s.
+Desvio padrão de ordenar uma lista decrescente: 0.011838 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 5500000.
+Tempo gasto para ordenar uma lista aleatória: 3.385927 s.
+Desvio padrão de ordenar uma lista aleatória: 0.023826 s.
+Tempo gasto para ordenar uma lista crescente: 2.960754 s.
+Desvio padrão de ordenar uma lista crescente: 0.171740 s.
+Tempo gasto para ordenar uma lista decrescente: 3.000900 s.
+Desvio padrão de ordenar uma lista decrescente: 0.065241 s.
+
+Método: Radix sort.
+Tamanho da lista: 5500000.
+Tempo gasto para ordenar uma lista aleatória: 0.640159 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000547 s.
+Tempo gasto para ordenar uma lista crescente: 0.816264 s.
+Desvio padrão de ordenar uma lista crescente: 0.000671 s.
+Tempo gasto para ordenar uma lista decrescente: 1.086052 s.
+Desvio padrão de ordenar uma lista decrescente: 0.014958 s.
+
+Método: Heap sort.
+Tamanho da lista: 5500000.
+Tempo gasto para ordenar uma lista aleatória: 2.896334 s.
+Desvio padrão de ordenar uma lista aleatória: 0.020203 s.
+Tempo gasto para ordenar uma lista crescente: 1.378977 s.
+Desvio padrão de ordenar uma lista crescente: 0.015199 s.
+Tempo gasto para ordenar uma lista decrescente: 1.362300 s.
+Desvio padrão de ordenar uma lista decrescente: 0.027852 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 6000000.
+Tempo gasto para ordenar uma lista aleatória: 3.689620 s.
+Desvio padrão de ordenar uma lista aleatória: 0.023805 s.
+Tempo gasto para ordenar uma lista crescente: 3.265834 s.
+Desvio padrão de ordenar uma lista crescente: 0.164738 s.
+Tempo gasto para ordenar uma lista decrescente: 3.292865 s.
+Desvio padrão de ordenar uma lista decrescente: 0.063113 s.
+
+Método: Radix sort.
+Tamanho da lista: 6000000.
+Tempo gasto para ordenar uma lista aleatória: 0.700520 s.
+Desvio padrão de ordenar uma lista aleatória: 0.009630 s.
+Tempo gasto para ordenar uma lista crescente: 0.893174 s.
+Desvio padrão de ordenar uma lista crescente: 0.009157 s.
+Tempo gasto para ordenar uma lista decrescente: 1.184298 s.
+Desvio padrão de ordenar uma lista decrescente: 0.012213 s.
+
+Método: Heap sort.
+Tamanho da lista: 6000000.
+Tempo gasto para ordenar uma lista aleatória: 3.232105 s.
+Desvio padrão de ordenar uma lista aleatória: 0.021061 s.
+Tempo gasto para ordenar uma lista crescente: 1.519219 s.
+Desvio padrão de ordenar uma lista crescente: 0.021060 s.
+Tempo gasto para ordenar uma lista decrescente: 1.478679 s.
+Desvio padrão de ordenar uma lista decrescente: 0.002609 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 6500000.
+Tempo gasto para ordenar uma lista aleatória: 4.004810 s.
+Desvio padrão de ordenar uma lista aleatória: 0.023904 s.
+Tempo gasto para ordenar uma lista crescente: 3.543541 s.
+Desvio padrão de ordenar uma lista crescente: 0.176561 s.
+Tempo gasto para ordenar uma lista decrescente: 3.562303 s.
+Desvio padrão de ordenar uma lista decrescente: 0.085945 s.
+
+Método: Radix sort.
+Tamanho da lista: 6500000.
+Tempo gasto para ordenar uma lista aleatória: 0.755733 s.
+Desvio padrão de ordenar uma lista aleatória: 0.000758 s.
+Tempo gasto para ordenar uma lista crescente: 0.964225 s.
+Desvio padrão de ordenar uma lista crescente: 0.001147 s.
+Tempo gasto para ordenar uma lista decrescente: 1.281661 s.
+Desvio padrão de ordenar uma lista decrescente: 0.015380 s.
+
+Método: Heap sort.
+Tamanho da lista: 6500000.
+Tempo gasto para ordenar uma lista aleatória: 3.566019 s.
+Desvio padrão de ordenar uma lista aleatória: 0.017037 s.
+Tempo gasto para ordenar uma lista crescente: 1.649154 s.
+Desvio padrão de ordenar uma lista crescente: 0.017004 s.
+Tempo gasto para ordenar uma lista decrescente: 1.616387 s.
+Desvio padrão de ordenar uma lista decrescente: 0.015963 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 7000000.
+Tempo gasto para ordenar uma lista aleatória: 4.330079 s.
+Desvio padrão de ordenar uma lista aleatória: 0.033087 s.
+Tempo gasto para ordenar uma lista crescente: 3.901720 s.
+Desvio padrão de ordenar uma lista crescente: 0.169516 s.
+Tempo gasto para ordenar uma lista decrescente: 3.834424 s.
+Desvio padrão de ordenar uma lista decrescente: 0.066848 s.
+
+Método: Radix sort.
+Tamanho da lista: 7000000.
+Tempo gasto para ordenar uma lista aleatória: 0.816202 s.
+Desvio padrão de ordenar uma lista aleatória: 0.009984 s.
+Tempo gasto para ordenar uma lista crescente: 1.039704 s.
+Desvio padrão de ordenar uma lista crescente: 0.006725 s.
+Tempo gasto para ordenar uma lista decrescente: 1.378325 s.
+Desvio padrão de ordenar uma lista decrescente: 0.012954 s.
+
+Método: Heap sort.
+Tamanho da lista: 7000000.
+Tempo gasto para ordenar uma lista aleatória: 3.910197 s.
+Desvio padrão de ordenar uma lista aleatória: 0.021500 s.
+Tempo gasto para ordenar uma lista crescente: 1.787805 s.
+Desvio padrão de ordenar uma lista crescente: 0.017798 s.
+Tempo gasto para ordenar uma lista decrescente: 1.750360 s.
+Desvio padrão de ordenar uma lista decrescente: 0.012124 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 7500000.
+Tempo gasto para ordenar uma lista aleatória: 4.662071 s.
+Desvio padrão de ordenar uma lista aleatória: 0.031706 s.
+Tempo gasto para ordenar uma lista crescente: 4.154762 s.
+Desvio padrão de ordenar uma lista crescente: 0.124378 s.
+Tempo gasto para ordenar uma lista decrescente: 4.128467 s.
+Desvio padrão de ordenar uma lista decrescente: 0.079107 s.
+
+Método: Radix sort.
+Tamanho da lista: 7500000.
+Tempo gasto para ordenar uma lista aleatória: 0.874933 s.
+Desvio padrão de ordenar uma lista aleatória: 0.013345 s.
+Tempo gasto para ordenar uma lista crescente: 1.113640 s.
+Desvio padrão de ordenar uma lista crescente: 0.001324 s.
+Tempo gasto para ordenar uma lista decrescente: 1.473630 s.
+Desvio padrão de ordenar uma lista decrescente: 0.009680 s.
+
+Método: Heap sort.
+Tamanho da lista: 7500000.
+Tempo gasto para ordenar uma lista aleatória: 4.257268 s.
+Desvio padrão de ordenar uma lista aleatória: 0.015892 s.
+Tempo gasto para ordenar uma lista crescente: 1.938654 s.
+Desvio padrão de ordenar uma lista crescente: 0.056817 s.
+Tempo gasto para ordenar uma lista decrescente: 1.889392 s.
+Desvio padrão de ordenar uma lista decrescente: 0.014110 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 8000000.
+Tempo gasto para ordenar uma lista aleatória: 4.969899 s.
+Desvio padrão de ordenar uma lista aleatória: 0.031084 s.
+Tempo gasto para ordenar uma lista crescente: 4.405803 s.
+Desvio padrão de ordenar uma lista crescente: 0.147278 s.
+Tempo gasto para ordenar uma lista decrescente: 4.428243 s.
+Desvio padrão de ordenar uma lista decrescente: 0.086997 s.
+
+Método: Radix sort.
+Tamanho da lista: 8000000.
+Tempo gasto para ordenar uma lista aleatória: 0.938098 s.
+Desvio padrão de ordenar uma lista aleatória: 0.028957 s.
+Tempo gasto para ordenar uma lista crescente: 1.193699 s.
+Desvio padrão de ordenar uma lista crescente: 0.016919 s.
+Tempo gasto para ordenar uma lista decrescente: 1.578109 s.
+Desvio padrão de ordenar uma lista decrescente: 0.016100 s.
+
+Método: Heap sort.
+Tamanho da lista: 8000000.
+Tempo gasto para ordenar uma lista aleatória: 4.623313 s.
+Desvio padrão de ordenar uma lista aleatória: 0.026029 s.
+Tempo gasto para ordenar uma lista crescente: 2.055260 s.
+Desvio padrão de ordenar uma lista crescente: 0.015379 s.
+Tempo gasto para ordenar uma lista decrescente: 2.025110 s.
+Desvio padrão de ordenar uma lista decrescente: 0.018533 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 8500000.
+Tempo gasto para ordenar uma lista aleatória: 5.287741 s.
+Desvio padrão de ordenar uma lista aleatória: 0.036637 s.
+Tempo gasto para ordenar uma lista crescente: 4.742343 s.
+Desvio padrão de ordenar uma lista crescente: 0.169094 s.
+Tempo gasto para ordenar uma lista decrescente: 4.681782 s.
+Desvio padrão de ordenar uma lista decrescente: 0.082393 s.
+
+Método: Radix sort.
+Tamanho da lista: 8500000.
+Tempo gasto para ordenar uma lista aleatória: 1.037214 s.
+Desvio padrão de ordenar uma lista aleatória: 0.010407 s.
+Tempo gasto para ordenar uma lista crescente: 1.333826 s.
+Desvio padrão de ordenar uma lista crescente: 0.014433 s.
+Tempo gasto para ordenar uma lista decrescente: 1.765803 s.
+Desvio padrão de ordenar uma lista decrescente: 0.015908 s.
+
+Método: Heap sort.
+Tamanho da lista: 8500000.
+Tempo gasto para ordenar uma lista aleatória: 4.995874 s.
+Desvio padrão de ordenar uma lista aleatória: 0.027473 s.
+Tempo gasto para ordenar uma lista crescente: 2.198552 s.
+Desvio padrão de ordenar uma lista crescente: 0.023561 s.
+Tempo gasto para ordenar uma lista decrescente: 2.159933 s.
+Desvio padrão de ordenar uma lista decrescente: 0.003458 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 9000000.
+Tempo gasto para ordenar uma lista aleatória: 5.593331 s.
+Desvio padrão de ordenar uma lista aleatória: 0.030189 s.
+Tempo gasto para ordenar uma lista crescente: 4.986356 s.
+Desvio padrão de ordenar uma lista crescente: 0.270046 s.
+Tempo gasto para ordenar uma lista decrescente: 4.958386 s.
+Desvio padrão de ordenar uma lista decrescente: 0.067096 s.
+
+Método: Radix sort.
+Tamanho da lista: 9000000.
+Tempo gasto para ordenar uma lista aleatória: 1.101059 s.
+Desvio padrão de ordenar uma lista aleatória: 0.015469 s.
+Tempo gasto para ordenar uma lista crescente: 1.408485 s.
+Desvio padrão de ordenar uma lista crescente: 0.002179 s.
+Tempo gasto para ordenar uma lista decrescente: 1.867367 s.
+Desvio padrão de ordenar uma lista decrescente: 0.010433 s.
+
+Método: Heap sort.
+Tamanho da lista: 9000000.
+Tempo gasto para ordenar uma lista aleatória: 5.348146 s.
+Desvio padrão de ordenar uma lista aleatória: 0.033148 s.
+Tempo gasto para ordenar uma lista crescente: 2.332832 s.
+Desvio padrão de ordenar uma lista crescente: 0.015922 s.
+Tempo gasto para ordenar uma lista decrescente: 2.299652 s.
+Desvio padrão de ordenar uma lista decrescente: 0.020573 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 9500000.
+Tempo gasto para ordenar uma lista aleatória: 5.909317 s.
+Desvio padrão de ordenar uma lista aleatória: 0.029640 s.
+Tempo gasto para ordenar uma lista crescente: 5.256305 s.
+Desvio padrão de ordenar uma lista crescente: 0.258487 s.
+Tempo gasto para ordenar uma lista decrescente: 5.221358 s.
+Desvio padrão de ordenar uma lista decrescente: 0.096178 s.
+
+Método: Radix sort.
+Tamanho da lista: 9500000.
+Tempo gasto para ordenar uma lista aleatória: 1.170129 s.
+Desvio padrão de ordenar uma lista aleatória: 0.026746 s.
+Tempo gasto para ordenar uma lista crescente: 1.494270 s.
+Desvio padrão de ordenar uma lista crescente: 0.014782 s.
+Tempo gasto para ordenar uma lista decrescente: 1.993247 s.
+Desvio padrão de ordenar uma lista decrescente: 0.036918 s.
+
+Método: Heap sort.
+Tamanho da lista: 9500000.
+Tempo gasto para ordenar uma lista aleatória: 5.729220 s.
+Desvio padrão de ordenar uma lista aleatória: 0.027988 s.
+Tempo gasto para ordenar uma lista crescente: 2.479062 s.
+Desvio padrão de ordenar uma lista crescente: 0.018279 s.
+Tempo gasto para ordenar uma lista decrescente: 2.440802 s.
+Desvio padrão de ordenar uma lista decrescente: 0.018017 s.
+
+------------------------------------------------------------
+
+Método: Quick sort.
+Tamanho da lista: 10000000.
+Tempo gasto para ordenar uma lista aleatória: 6.245036 s.
+Desvio padrão de ordenar uma lista aleatória: 0.037458 s.
+Tempo gasto para ordenar uma lista crescente: 5.531738 s.
+Desvio padrão de ordenar uma lista crescente: 0.122921 s.
+Tempo gasto para ordenar uma lista decrescente: 5.506720 s.
+Desvio padrão de ordenar uma lista decrescente: 0.088779 s.
+
+Método: Radix sort.
+Tamanho da lista: 10000000.
+Tempo gasto para ordenar uma lista aleatória: 1.223104 s.
+Desvio padrão de ordenar uma lista aleatória: 0.015136 s.
+Tempo gasto para ordenar uma lista crescente: 1.570243 s.
+Desvio padrão de ordenar uma lista crescente: 0.015094 s.
+Tempo gasto para ordenar uma lista decrescente: 2.079507 s.
+Desvio padrão de ordenar uma lista decrescente: 0.016726 s.
+
+Método: Heap sort.
+Tamanho da lista: 10000000.
+Tempo gasto para ordenar uma lista aleatória: 6.095673 s.
+Desvio padrão de ordenar uma lista aleatória: 0.024137 s.
+Tempo gasto para ordenar uma lista crescente: 2.625677 s.
+Desvio padrão de ordenar uma lista crescente: 0.023684 s.
+Tempo gasto para ordenar uma lista decrescente: 2.572726 s.
+Desvio padrão de ordenar uma lista decrescente: 0.016101 s.
+
+------------------------------------------------------------
